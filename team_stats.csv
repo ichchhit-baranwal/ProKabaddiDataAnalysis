@@ -1,0 +1,1121 @@
+match_played,rank,team_id,team_name,value,stat,season
+128,1,6,Patna Pirates,4408.0,Team Total Points,All Seasons
+122,2,5,U Mumba,3962.0,Team Total Points,All Seasons
+122,3,1,Bengaluru Bulls,3848.0,Team Total Points,All Seasons
+119,4,8,Telugu Titans,3791.0,Team Total Points,All Seasons
+122,5,7,Puneri Paltan,3736.0,Team Total Points,All Seasons
+120,6,3,Jaipur Pink Panthers,3686.0,Team Total Points,All Seasons
+121,7,4,Bengal Warriors,3656.0,Team Total Points,All Seasons
+118,8,2,Dabang Delhi K.C.,3642.0,Team Total Points,All Seasons
+65,9,31,Gujarat Fortunegiants,2116.0,Team Total Points,All Seasons
+63,10,30,U.P. Yoddha,2010.0,Team Total Points,All Seasons
+60,11,28,Haryana Steelers,1949.0,Team Total Points,All Seasons
+60,12,29,Tamil Thalaivas,1819.0,Team Total Points,All Seasons
+128,1,6,Patna Pirates,4183.0,Team Total Points Conceded,All Seasons
+118,2,2,Dabang Delhi K.C.,3926.0,Team Total Points Conceded,All Seasons
+122,3,7,Puneri Paltan,3848.0,Team Total Points Conceded,All Seasons
+121,4,4,Bengal Warriors,3798.0,Team Total Points Conceded,All Seasons
+122,5,1,Bengaluru Bulls,3793.0,Team Total Points Conceded,All Seasons
+119,6,8,Telugu Titans,3748.0,Team Total Points Conceded,All Seasons
+120,7,3,Jaipur Pink Panthers,3727.0,Team Total Points Conceded,All Seasons
+122,8,5,U Mumba,3602.0,Team Total Points Conceded,All Seasons
+63,9,30,U.P. Yoddha,2089.0,Team Total Points Conceded,All Seasons
+60,10,29,Tamil Thalaivas,2024.0,Team Total Points Conceded,All Seasons
+60,11,28,Haryana Steelers,2002.0,Team Total Points Conceded,All Seasons
+65,12,31,Gujarat Fortunegiants,1883.0,Team Total Points Conceded,All Seasons
+128,1,6,Patna Pirates,29.95,Team Avg Points Scored,All Seasons
+60,2,28,Haryana Steelers,28.61,Team Avg Points Scored,All Seasons
+122,3,5,U Mumba,28.44,Team Avg Points Scored,All Seasons
+119,4,8,Telugu Titans,28.11,Team Avg Points Scored,All Seasons
+65,5,31,Gujarat Fortunegiants,27.96,Team Avg Points Scored,All Seasons
+63,6,30,U.P. Yoddha,27.95,Team Avg Points Scored,All Seasons
+122,7,1,Bengaluru Bulls,27.54,Team Avg Points Scored,All Seasons
+60,8,29,Tamil Thalaivas,27.25,Team Avg Points Scored,All Seasons
+118,9,2,Dabang Delhi K.C.,26.82,Team Avg Points Scored,All Seasons
+122,10,7,Puneri Paltan,26.68,Team Avg Points Scored,All Seasons
+120,11,3,Jaipur Pink Panthers,26.62,Team Avg Points Scored,All Seasons
+121,12,4,Bengal Warriors,26.52,Team Avg Points Scored,All Seasons
+128,1,6,Patna Pirates,2008.0,Team Successful Raids,All Seasons
+119,2,8,Telugu Titans,1778.0,Team Successful Raids,All Seasons
+122,3,1,Bengaluru Bulls,1757.0,Team Successful Raids,All Seasons
+122,4,5,U Mumba,1737.0,Team Successful Raids,All Seasons
+121,5,4,Bengal Warriors,1702.0,Team Successful Raids,All Seasons
+118,6,2,Dabang Delhi K.C.,1698.0,Team Successful Raids,All Seasons
+120,7,3,Jaipur Pink Panthers,1624.0,Team Successful Raids,All Seasons
+122,8,7,Puneri Paltan,1617.0,Team Successful Raids,All Seasons
+65,9,31,Gujarat Fortunegiants,934.0,Team Successful Raids,All Seasons
+60,10,29,Tamil Thalaivas,913.0,Team Successful Raids,All Seasons
+60,11,28,Haryana Steelers,907.0,Team Successful Raids,All Seasons
+63,12,30,U.P. Yoddha,894.0,Team Successful Raids,All Seasons
+128,1,6,Patna Pirates,2550.0,Team Raid Points,All Seasons
+122,2,1,Bengaluru Bulls,2215.0,Team Raid Points,All Seasons
+119,3,8,Telugu Titans,2197.0,Team Raid Points,All Seasons
+122,4,5,U Mumba,2188.0,Team Raid Points,All Seasons
+121,5,4,Bengal Warriors,2128.0,Team Raid Points,All Seasons
+118,6,2,Dabang Delhi K.C.,2117.0,Team Raid Points,All Seasons
+120,7,3,Jaipur Pink Panthers,2060.0,Team Raid Points,All Seasons
+122,8,7,Puneri Paltan,2029.0,Team Raid Points,All Seasons
+63,9,30,U.P. Yoddha,1138.0,Team Raid Points,All Seasons
+65,10,31,Gujarat Fortunegiants,1136.0,Team Raid Points,All Seasons
+60,11,28,Haryana Steelers,1134.0,Team Raid Points,All Seasons
+60,12,29,Tamil Thalaivas,1104.0,Team Raid Points,All Seasons
+128,1,6,Patna Pirates,19.92,Team Average Raid Points,All Seasons
+60,2,28,Haryana Steelers,18.9,Team Average Raid Points,All Seasons
+119,3,8,Telugu Titans,18.46,Team Average Raid Points,All Seasons
+60,4,29,Tamil Thalaivas,18.4,Team Average Raid Points,All Seasons
+122,5,1,Bengaluru Bulls,18.16,Team Average Raid Points,All Seasons
+63,6,30,U.P. Yoddha,18.06,Team Average Raid Points,All Seasons
+118,7,2,Dabang Delhi K.C.,17.94,Team Average Raid Points,All Seasons
+122,8,5,U Mumba,17.93,Team Average Raid Points,All Seasons
+121,9,4,Bengal Warriors,17.59,Team Average Raid Points,All Seasons
+65,10,31,Gujarat Fortunegiants,17.48,Team Average Raid Points,All Seasons
+120,11,3,Jaipur Pink Panthers,17.17,Team Average Raid Points,All Seasons
+122,12,7,Puneri Paltan,16.63,Team Average Raid Points,All Seasons
+122,1,5,U Mumba,1183.0,Team Successful Tackles,All Seasons
+128,2,6,Patna Pirates,1158.0,Team Successful Tackles,All Seasons
+122,3,7,Puneri Paltan,1116.0,Team Successful Tackles,All Seasons
+122,4,1,Bengaluru Bulls,1059.0,Team Successful Tackles,All Seasons
+119,5,8,Telugu Titans,1040.0,Team Successful Tackles,All Seasons
+120,6,3,Jaipur Pink Panthers,1016.0,Team Successful Tackles,All Seasons
+121,7,4,Bengal Warriors,988.0,Team Successful Tackles,All Seasons
+118,8,2,Dabang Delhi K.C.,960.0,Team Successful Tackles,All Seasons
+65,9,31,Gujarat Fortunegiants,640.0,Team Successful Tackles,All Seasons
+63,10,30,U.P. Yoddha,570.0,Team Successful Tackles,All Seasons
+60,11,28,Haryana Steelers,538.0,Team Successful Tackles,All Seasons
+60,12,29,Tamil Thalaivas,489.0,Team Successful Tackles,All Seasons
+128,1,6,Patna Pirates,1284.0,Team Tackle Points,All Seasons
+122,2,5,U Mumba,1282.0,Team Tackle Points,All Seasons
+122,3,7,Puneri Paltan,1227.0,Team Tackle Points,All Seasons
+119,4,8,Telugu Titans,1149.0,Team Tackle Points,All Seasons
+122,5,1,Bengaluru Bulls,1145.0,Team Tackle Points,All Seasons
+120,6,3,Jaipur Pink Panthers,1135.0,Team Tackle Points,All Seasons
+121,7,4,Bengal Warriors,1081.0,Team Tackle Points,All Seasons
+118,8,2,Dabang Delhi K.C.,1048.0,Team Tackle Points,All Seasons
+65,9,31,Gujarat Fortunegiants,682.0,Team Tackle Points,All Seasons
+63,10,30,U.P. Yoddha,623.0,Team Tackle Points,All Seasons
+60,11,28,Haryana Steelers,583.0,Team Tackle Points,All Seasons
+60,12,29,Tamil Thalaivas,531.0,Team Tackle Points,All Seasons
+122,1,5,U Mumba,10.51,Team Average Tackle Points,All Seasons
+65,2,31,Gujarat Fortunegiants,10.49,Team Average Tackle Points,All Seasons
+122,3,7,Puneri Paltan,10.06,Team Average Tackle Points,All Seasons
+128,4,6,Patna Pirates,10.03,Team Average Tackle Points,All Seasons
+63,5,30,U.P. Yoddha,9.89,Team Average Tackle Points,All Seasons
+60,6,28,Haryana Steelers,9.72,Team Average Tackle Points,All Seasons
+119,7,8,Telugu Titans,9.66,Team Average Tackle Points,All Seasons
+120,8,3,Jaipur Pink Panthers,9.46,Team Average Tackle Points,All Seasons
+122,9,1,Bengaluru Bulls,9.39,Team Average Tackle Points,All Seasons
+121,10,4,Bengal Warriors,8.93,Team Average Tackle Points,All Seasons
+118,11,2,Dabang Delhi K.C.,8.88,Team Average Tackle Points,All Seasons
+60,12,29,Tamil Thalaivas,8.85,Team Average Tackle Points,All Seasons
+128,1,6,Patna Pirates,86.0,Team Super Raid,All Seasons
+121,2,4,Bengal Warriors,67.0,Team Super Raid,All Seasons
+122,3,5,U Mumba,61.0,Team Super Raid,All Seasons
+122,3,1,Bengaluru Bulls,61.0,Team Super Raid,All Seasons
+118,3,2,Dabang Delhi K.C.,61.0,Team Super Raid,All Seasons
+122,3,7,Puneri Paltan,61.0,Team Super Raid,All Seasons
+120,7,3,Jaipur Pink Panthers,60.0,Team Super Raid,All Seasons
+119,8,8,Telugu Titans,57.0,Team Super Raid,All Seasons
+60,9,28,Haryana Steelers,35.0,Team Super Raid,All Seasons
+63,9,30,U.P. Yoddha,35.0,Team Super Raid,All Seasons
+65,11,31,Gujarat Fortunegiants,25.0,Team Super Raid,All Seasons
+60,12,29,Tamil Thalaivas,16.0,Team Super Raid,All Seasons
+128,1,6,Patna Pirates,130.0,Team Super Tackles,All Seasons
+120,2,3,Jaipur Pink Panthers,124.0,Team Super Tackles,All Seasons
+122,3,7,Puneri Paltan,119.0,Team Super Tackles,All Seasons
+119,4,8,Telugu Titans,115.0,Team Super Tackles,All Seasons
+122,5,5,U Mumba,101.0,Team Super Tackles,All Seasons
+121,6,4,Bengal Warriors,98.0,Team Super Tackles,All Seasons
+118,7,2,Dabang Delhi K.C.,95.0,Team Super Tackles,All Seasons
+122,8,1,Bengaluru Bulls,93.0,Team Super Tackles,All Seasons
+63,9,30,U.P. Yoddha,57.0,Team Super Tackles,All Seasons
+60,10,28,Haryana Steelers,47.0,Team Super Tackles,All Seasons
+65,11,31,Gujarat Fortunegiants,45.0,Team Super Tackles,All Seasons
+60,12,29,Tamil Thalaivas,44.0,Team Super Tackles,All Seasons
+122,1,7,Puneri Paltan,510.0,Team DOD Raid Points,All Seasons
+120,2,3,Jaipur Pink Panthers,457.0,Team DOD Raid Points,All Seasons
+128,3,6,Patna Pirates,456.0,Team DOD Raid Points,All Seasons
+122,4,1,Bengaluru Bulls,449.0,Team DOD Raid Points,All Seasons
+122,5,5,U Mumba,444.0,Team DOD Raid Points,All Seasons
+121,6,4,Bengal Warriors,439.0,Team DOD Raid Points,All Seasons
+118,7,2,Dabang Delhi K.C.,438.0,Team DOD Raid Points,All Seasons
+119,8,8,Telugu Titans,423.0,Team DOD Raid Points,All Seasons
+63,9,30,U.P. Yoddha,223.0,Team DOD Raid Points,All Seasons
+65,10,31,Gujarat Fortunegiants,219.0,Team DOD Raid Points,All Seasons
+60,11,28,Haryana Steelers,201.0,Team DOD Raid Points,All Seasons
+60,11,29,Tamil Thalaivas,201.0,Team DOD Raid Points,All Seasons
+128,1,6,Patna Pirates,189.0,Team All-outs Inflicted,All Seasons
+122,2,5,U Mumba,165.0,Team All-outs Inflicted,All Seasons
+122,3,1,Bengaluru Bulls,148.0,Team All-outs Inflicted,All Seasons
+119,4,8,Telugu Titans,136.0,Team All-outs Inflicted,All Seasons
+118,5,2,Dabang Delhi K.C.,133.0,Team All-outs Inflicted,All Seasons
+120,5,3,Jaipur Pink Panthers,133.0,Team All-outs Inflicted,All Seasons
+122,7,7,Puneri Paltan,129.0,Team All-outs Inflicted,All Seasons
+121,8,4,Bengal Warriors,123.0,Team All-outs Inflicted,All Seasons
+65,9,31,Gujarat Fortunegiants,87.0,Team All-outs Inflicted,All Seasons
+63,10,30,U.P. Yoddha,65.0,Team All-outs Inflicted,All Seasons
+60,11,28,Haryana Steelers,64.0,Team All-outs Inflicted,All Seasons
+60,12,29,Tamil Thalaivas,50.0,Team All-outs Inflicted,All Seasons
+118,1,2,Dabang Delhi K.C.,162.0,Team All-outs Conceded,All Seasons
+122,2,7,Puneri Paltan,154.0,Team All-outs Conceded,All Seasons
+122,3,1,Bengaluru Bulls,141.0,Team All-outs Conceded,All Seasons
+121,4,4,Bengal Warriors,140.0,Team All-outs Conceded,All Seasons
+128,5,6,Patna Pirates,139.0,Team All-outs Conceded,All Seasons
+120,6,3,Jaipur Pink Panthers,138.0,Team All-outs Conceded,All Seasons
+122,7,5,U Mumba,134.0,Team All-outs Conceded,All Seasons
+119,8,8,Telugu Titans,128.0,Team All-outs Conceded,All Seasons
+63,9,30,U.P. Yoddha,80.0,Team All-outs Conceded,All Seasons
+60,10,29,Tamil Thalaivas,79.0,Team All-outs Conceded,All Seasons
+60,11,28,Haryana Steelers,72.0,Team All-outs Conceded,All Seasons
+65,12,31,Gujarat Fortunegiants,55.0,Team All-outs Conceded,All Seasons
+16,1,2,Dabang Delhi K.C.,567.0,Team Total Points,Season 7
+16,2,4,Bengal Warriors,547.0,Team Total Points,Season 7
+16,3,1,Bengaluru Bulls,544.0,Team Total Points,Season 7
+16,4,6,Patna Pirates,525.0,Team Total Points,Season 7
+15,5,28,Haryana Steelers,507.0,Team Total Points,Season 7
+16,6,7,Puneri Paltan,500.0,Team Total Points,Season 7
+16,7,3,Jaipur Pink Panthers,484.0,Team Total Points,Season 7
+16,8,29,Tamil Thalaivas,467.0,Team Total Points,Season 7
+16,9,31,Gujarat Fortunegiants,465.0,Team Total Points,Season 7
+15,10,5,U Mumba,459.0,Team Total Points,Season 7
+15,11,30,U.P. Yoddha,436.0,Team Total Points,Season 7
+15,12,8,Telugu Titans,432.0,Team Total Points,Season 7
+16,1,7,Puneri Paltan,546.0,Team Total Points Conceded,Season 7
+16,2,29,Tamil Thalaivas,531.0,Team Total Points Conceded,Season 7
+16,3,1,Bengaluru Bulls,530.0,Team Total Points Conceded,Season 7
+16,4,6,Patna Pirates,517.0,Team Total Points Conceded,Season 7
+16,5,2,Dabang Delhi K.C.,499.0,Team Total Points Conceded,Season 7
+16,6,3,Jaipur Pink Panthers,490.0,Team Total Points Conceded,Season 7
+15,6,8,Telugu Titans,490.0,Team Total Points Conceded,Season 7
+15,8,30,U.P. Yoddha,479.0,Team Total Points Conceded,Season 7
+16,9,4,Bengal Warriors,475.0,Team Total Points Conceded,Season 7
+16,10,31,Gujarat Fortunegiants,473.0,Team Total Points Conceded,Season 7
+15,11,28,Haryana Steelers,470.0,Team Total Points Conceded,Season 7
+15,12,5,U Mumba,433.0,Team Total Points Conceded,Season 7
+16,1,1,Bengaluru Bulls,30.37,Team Avg Points Scored,Season 7
+16,2,2,Dabang Delhi K.C.,29.81,Team Avg Points Scored,Season 7
+15,3,28,Haryana Steelers,29.73,Team Avg Points Scored,Season 7
+16,4,4,Bengal Warriors,29.56,Team Avg Points Scored,Season 7
+16,5,6,Patna Pirates,28.56,Team Avg Points Scored,Season 7
+16,6,7,Puneri Paltan,28.37,Team Avg Points Scored,Season 7
+16,7,3,Jaipur Pink Panthers,26.75,Team Avg Points Scored,Season 7
+15,8,8,Telugu Titans,26.53,Team Avg Points Scored,Season 7
+15,9,5,U Mumba,26.26,Team Avg Points Scored,Season 7
+16,10,29,Tamil Thalaivas,26.0,Team Avg Points Scored,Season 7
+15,11,30,U.P. Yoddha,25.66,Team Avg Points Scored,Season 7
+16,12,31,Gujarat Fortunegiants,25.31,Team Avg Points Scored,Season 7
+16,1,2,Dabang Delhi K.C.,276.0,Team Successful Raids,Season 7
+16,2,4,Bengal Warriors,256.0,Team Successful Raids,Season 7
+16,2,1,Bengaluru Bulls,256.0,Team Successful Raids,Season 7
+16,4,6,Patna Pirates,233.0,Team Successful Raids,Season 7
+16,5,7,Puneri Paltan,220.0,Team Successful Raids,Season 7
+15,6,28,Haryana Steelers,219.0,Team Successful Raids,Season 7
+16,7,29,Tamil Thalaivas,218.0,Team Successful Raids,Season 7
+15,8,8,Telugu Titans,208.0,Team Successful Raids,Season 7
+16,9,31,Gujarat Fortunegiants,207.0,Team Successful Raids,Season 7
+16,10,3,Jaipur Pink Panthers,197.0,Team Successful Raids,Season 7
+15,11,5,U Mumba,192.0,Team Successful Raids,Season 7
+15,12,30,U.P. Yoddha,179.0,Team Successful Raids,Season 7
+16,1,2,Dabang Delhi K.C.,329.0,Team Raid Points,Season 7
+16,2,1,Bengaluru Bulls,322.0,Team Raid Points,Season 7
+16,3,4,Bengal Warriors,318.0,Team Raid Points,Season 7
+16,4,6,Patna Pirates,285.0,Team Raid Points,Season 7
+15,5,28,Haryana Steelers,283.0,Team Raid Points,Season 7
+16,6,29,Tamil Thalaivas,275.0,Team Raid Points,Season 7
+16,7,7,Puneri Paltan,271.0,Team Raid Points,Season 7
+16,8,3,Jaipur Pink Panthers,253.0,Team Raid Points,Season 7
+16,9,31,Gujarat Fortunegiants,251.0,Team Raid Points,Season 7
+15,10,5,U Mumba,246.0,Team Raid Points,Season 7
+15,11,8,Telugu Titans,243.0,Team Raid Points,Season 7
+15,12,30,U.P. Yoddha,228.0,Team Raid Points,Season 7
+16,1,2,Dabang Delhi K.C.,20.56,Team Average Raid Points,Season 7
+16,2,1,Bengaluru Bulls,20.13,Team Average Raid Points,Season 7
+16,3,4,Bengal Warriors,19.88,Team Average Raid Points,Season 7
+15,4,28,Haryana Steelers,18.87,Team Average Raid Points,Season 7
+16,5,6,Patna Pirates,17.81,Team Average Raid Points,Season 7
+16,6,29,Tamil Thalaivas,17.19,Team Average Raid Points,Season 7
+16,7,7,Puneri Paltan,16.94,Team Average Raid Points,Season 7
+15,8,5,U Mumba,16.4,Team Average Raid Points,Season 7
+15,9,8,Telugu Titans,16.2,Team Average Raid Points,Season 7
+16,10,3,Jaipur Pink Panthers,15.81,Team Average Raid Points,Season 7
+16,11,31,Gujarat Fortunegiants,15.69,Team Average Raid Points,Season 7
+15,12,30,U.P. Yoddha,15.2,Team Average Raid Points,Season 7
+16,1,7,Puneri Paltan,164.0,Team Successful Tackles,Season 7
+15,2,28,Haryana Steelers,152.0,Team Successful Tackles,Season 7
+16,3,3,Jaipur Pink Panthers,150.0,Team Successful Tackles,Season 7
+16,3,6,Patna Pirates,150.0,Team Successful Tackles,Season 7
+15,5,30,U.P. Yoddha,147.0,Team Successful Tackles,Season 7
+16,6,4,Bengal Warriors,145.0,Team Successful Tackles,Season 7
+16,7,2,Dabang Delhi K.C.,143.0,Team Successful Tackles,Season 7
+16,8,1,Bengaluru Bulls,141.0,Team Successful Tackles,Season 7
+16,9,31,Gujarat Fortunegiants,140.0,Team Successful Tackles,Season 7
+15,10,5,U Mumba,135.0,Team Successful Tackles,Season 7
+15,10,8,Telugu Titans,135.0,Team Successful Tackles,Season 7
+16,12,29,Tamil Thalaivas,131.0,Team Successful Tackles,Season 7
+16,1,7,Puneri Paltan,183.0,Team Tackle Points,Season 7
+16,2,3,Jaipur Pink Panthers,175.0,Team Tackle Points,Season 7
+16,3,6,Patna Pirates,172.0,Team Tackle Points,Season 7
+16,4,1,Bengaluru Bulls,164.0,Team Tackle Points,Season 7
+15,5,28,Haryana Steelers,163.0,Team Tackle Points,Season 7
+15,6,30,U.P. Yoddha,157.0,Team Tackle Points,Season 7
+15,7,8,Telugu Titans,155.0,Team Tackle Points,Season 7
+16,7,4,Bengal Warriors,155.0,Team Tackle Points,Season 7
+16,9,31,Gujarat Fortunegiants,154.0,Team Tackle Points,Season 7
+15,10,5,U Mumba,148.0,Team Tackle Points,Season 7
+16,10,2,Dabang Delhi K.C.,148.0,Team Tackle Points,Season 7
+16,12,29,Tamil Thalaivas,141.0,Team Tackle Points,Season 7
+16,1,7,Puneri Paltan,11.44,Team Average Tackle Points,Season 7
+16,2,3,Jaipur Pink Panthers,10.94,Team Average Tackle Points,Season 7
+15,3,28,Haryana Steelers,10.87,Team Average Tackle Points,Season 7
+16,4,6,Patna Pirates,10.75,Team Average Tackle Points,Season 7
+15,5,30,U.P. Yoddha,10.47,Team Average Tackle Points,Season 7
+15,6,8,Telugu Titans,10.33,Team Average Tackle Points,Season 7
+16,7,1,Bengaluru Bulls,10.25,Team Average Tackle Points,Season 7
+15,8,5,U Mumba,9.87,Team Average Tackle Points,Season 7
+16,9,4,Bengal Warriors,9.69,Team Average Tackle Points,Season 7
+16,10,31,Gujarat Fortunegiants,9.63,Team Average Tackle Points,Season 7
+16,11,2,Dabang Delhi K.C.,9.25,Team Average Tackle Points,Season 7
+16,12,29,Tamil Thalaivas,8.81,Team Average Tackle Points,Season 7
+16,1,4,Bengal Warriors,12.0,Team Super Raid,Season 7
+15,2,28,Haryana Steelers,11.0,Team Super Raid,Season 7
+16,3,6,Patna Pirates,9.0,Team Super Raid,Season 7
+16,4,2,Dabang Delhi K.C.,7.0,Team Super Raid,Season 7
+16,5,3,Jaipur Pink Panthers,6.0,Team Super Raid,Season 7
+15,5,5,U Mumba,6.0,Team Super Raid,Season 7
+16,5,1,Bengaluru Bulls,6.0,Team Super Raid,Season 7
+16,8,31,Gujarat Fortunegiants,4.0,Team Super Raid,Season 7
+16,8,7,Puneri Paltan,4.0,Team Super Raid,Season 7
+15,8,8,Telugu Titans,4.0,Team Super Raid,Season 7
+16,8,29,Tamil Thalaivas,4.0,Team Super Raid,Season 7
+15,12,30,U.P. Yoddha,2.0,Team Super Raid,Season 7
+16,1,3,Jaipur Pink Panthers,26.0,Team Super Tackles,Season 7
+16,2,1,Bengaluru Bulls,25.0,Team Super Tackles,Season 7
+16,3,6,Patna Pirates,22.0,Team Super Tackles,Season 7
+15,4,8,Telugu Titans,21.0,Team Super Tackles,Season 7
+16,5,7,Puneri Paltan,19.0,Team Super Tackles,Season 7
+15,6,5,U Mumba,15.0,Team Super Tackles,Season 7
+16,6,31,Gujarat Fortunegiants,15.0,Team Super Tackles,Season 7
+16,8,29,Tamil Thalaivas,12.0,Team Super Tackles,Season 7
+16,8,4,Bengal Warriors,12.0,Team Super Tackles,Season 7
+15,10,28,Haryana Steelers,11.0,Team Super Tackles,Season 7
+15,10,30,U.P. Yoddha,11.0,Team Super Tackles,Season 7
+16,12,2,Dabang Delhi K.C.,7.0,Team Super Tackles,Season 7
+16,1,3,Jaipur Pink Panthers,63.0,Team DOD Raid Points,Season 7
+16,2,6,Patna Pirates,58.0,Team DOD Raid Points,Season 7
+15,3,5,U Mumba,55.0,Team DOD Raid Points,Season 7
+15,4,30,U.P. Yoddha,54.0,Team DOD Raid Points,Season 7
+16,5,7,Puneri Paltan,52.0,Team DOD Raid Points,Season 7
+15,6,28,Haryana Steelers,51.0,Team DOD Raid Points,Season 7
+16,7,31,Gujarat Fortunegiants,47.0,Team DOD Raid Points,Season 7
+16,8,4,Bengal Warriors,46.0,Team DOD Raid Points,Season 7
+16,9,29,Tamil Thalaivas,45.0,Team DOD Raid Points,Season 7
+16,10,2,Dabang Delhi K.C.,41.0,Team DOD Raid Points,Season 7
+16,11,1,Bengaluru Bulls,35.0,Team DOD Raid Points,Season 7
+15,12,8,Telugu Titans,33.0,Team DOD Raid Points,Season 7
+16,1,2,Dabang Delhi K.C.,26.0,Team All-outs Inflicted,Season 7
+16,2,4,Bengal Warriors,24.0,Team All-outs Inflicted,Season 7
+16,2,6,Patna Pirates,24.0,Team All-outs Inflicted,Season 7
+15,4,28,Haryana Steelers,21.0,Team All-outs Inflicted,Season 7
+15,5,5,U Mumba,20.0,Team All-outs Inflicted,Season 7
+16,6,1,Bengaluru Bulls,17.0,Team All-outs Inflicted,Season 7
+15,7,30,U.P. Yoddha,16.0,Team All-outs Inflicted,Season 7
+16,8,31,Gujarat Fortunegiants,15.0,Team All-outs Inflicted,Season 7
+16,8,3,Jaipur Pink Panthers,15.0,Team All-outs Inflicted,Season 7
+16,10,7,Puneri Paltan,13.0,Team All-outs Inflicted,Season 7
+16,11,29,Tamil Thalaivas,11.0,Team All-outs Inflicted,Season 7
+15,12,8,Telugu Titans,7.0,Team All-outs Inflicted,Season 7
+16,1,7,Puneri Paltan,25.0,Team All-outs Conceded,Season 7
+16,2,29,Tamil Thalaivas,21.0,Team All-outs Conceded,Season 7
+16,3,1,Bengaluru Bulls,19.0,Team All-outs Conceded,Season 7
+15,4,8,Telugu Titans,18.0,Team All-outs Conceded,Season 7
+15,4,30,U.P. Yoddha,18.0,Team All-outs Conceded,Season 7
+16,4,31,Gujarat Fortunegiants,18.0,Team All-outs Conceded,Season 7
+16,7,6,Patna Pirates,17.0,Team All-outs Conceded,Season 7
+15,8,5,U Mumba,16.0,Team All-outs Conceded,Season 7
+15,8,28,Haryana Steelers,16.0,Team All-outs Conceded,Season 7
+16,8,3,Jaipur Pink Panthers,16.0,Team All-outs Conceded,Season 7
+16,11,4,Bengal Warriors,13.0,Team All-outs Conceded,Season 7
+16,12,2,Dabang Delhi K.C.,12.0,Team All-outs Conceded,Season 7
+24,1,1,Bengaluru Bulls,887.0,Team Total Points,Season 6
+25,2,31,Gujarat Fortunegiants,876.0,Team Total Points,Season 6
+23,3,5,U Mumba,856.0,Team Total Points,Season 6
+24,4,2,Dabang Delhi K.C.,822.0,Team Total Points,Season 6
+25,5,30,U.P. Yoddha,812.0,Team Total Points,Season 6
+22,6,6,Patna Pirates,799.0,Team Total Points,Season 6
+23,7,4,Bengal Warriors,725.0,Team Total Points,Season 6
+22,8,28,Haryana Steelers,715.0,Team Total Points,Season 6
+22,9,3,Jaipur Pink Panthers,711.0,Team Total Points,Season 6
+22,10,29,Tamil Thalaivas,671.0,Team Total Points,Season 6
+22,11,7,Puneri Paltan,649.0,Team Total Points,Season 6
+22,12,8,Telugu Titans,647.0,Team Total Points,Season 6
+25,1,30,U.P. Yoddha,847.0,Team Total Points Conceded,Season 6
+22,2,6,Patna Pirates,835.0,Team Total Points Conceded,Season 6
+24,3,2,Dabang Delhi K.C.,824.0,Team Total Points Conceded,Season 6
+22,4,28,Haryana Steelers,806.0,Team Total Points Conceded,Season 6
+22,5,3,Jaipur Pink Panthers,780.0,Team Total Points Conceded,Season 6
+25,6,31,Gujarat Fortunegiants,769.0,Team Total Points Conceded,Season 6
+24,7,1,Bengaluru Bulls,766.0,Team Total Points Conceded,Season 6
+22,8,29,Tamil Thalaivas,741.0,Team Total Points Conceded,Season 6
+23,9,4,Bengal Warriors,734.0,Team Total Points Conceded,Season 6
+22,10,8,Telugu Titans,702.0,Team Total Points Conceded,Season 6
+22,11,7,Puneri Paltan,694.0,Team Total Points Conceded,Season 6
+23,12,5,U Mumba,672.0,Team Total Points Conceded,Season 6
+23,1,5,U Mumba,32.52,Team Avg Points Scored,Season 6
+24,2,1,Bengaluru Bulls,32.37,Team Avg Points Scored,Season 6
+22,3,6,Patna Pirates,31.68,Team Avg Points Scored,Season 6
+25,4,31,Gujarat Fortunegiants,30.16,Team Avg Points Scored,Season 6
+24,5,2,Dabang Delhi K.C.,29.12,Team Avg Points Scored,Season 6
+22,6,3,Jaipur Pink Panthers,29.09,Team Avg Points Scored,Season 6
+22,6,28,Haryana Steelers,29.09,Team Avg Points Scored,Season 6
+25,8,30,U.P. Yoddha,28.56,Team Avg Points Scored,Season 6
+23,9,4,Bengal Warriors,27.65,Team Avg Points Scored,Season 6
+22,10,29,Tamil Thalaivas,27.63,Team Avg Points Scored,Season 6
+22,11,8,Telugu Titans,26.63,Team Avg Points Scored,Season 6
+22,12,7,Puneri Paltan,25.68,Team Avg Points Scored,Season 6
+24,1,1,Bengaluru Bulls,431.0,Team Successful Raids,Season 6
+22,2,6,Patna Pirates,406.0,Team Successful Raids,Season 6
+24,3,2,Dabang Delhi K.C.,401.0,Team Successful Raids,Season 6
+25,4,31,Gujarat Fortunegiants,392.0,Team Successful Raids,Season 6
+23,5,5,U Mumba,372.0,Team Successful Raids,Season 6
+22,6,28,Haryana Steelers,361.0,Team Successful Raids,Season 6
+25,7,30,U.P. Yoddha,357.0,Team Successful Raids,Season 6
+22,8,29,Tamil Thalaivas,344.0,Team Successful Raids,Season 6
+23,9,4,Bengal Warriors,340.0,Team Successful Raids,Season 6
+22,10,3,Jaipur Pink Panthers,334.0,Team Successful Raids,Season 6
+22,11,8,Telugu Titans,289.0,Team Successful Raids,Season 6
+22,12,7,Puneri Paltan,286.0,Team Successful Raids,Season 6
+24,1,1,Bengaluru Bulls,547.0,Team Raid Points,Season 6
+22,2,6,Patna Pirates,496.0,Team Raid Points,Season 6
+24,3,2,Dabang Delhi K.C.,483.0,Team Raid Points,Season 6
+25,4,31,Gujarat Fortunegiants,480.0,Team Raid Points,Season 6
+23,5,5,U Mumba,459.0,Team Raid Points,Season 6
+25,6,30,U.P. Yoddha,449.0,Team Raid Points,Season 6
+22,7,28,Haryana Steelers,447.0,Team Raid Points,Season 6
+23,8,4,Bengal Warriors,436.0,Team Raid Points,Season 6
+22,9,29,Tamil Thalaivas,419.0,Team Raid Points,Season 6
+22,10,3,Jaipur Pink Panthers,415.0,Team Raid Points,Season 6
+22,11,8,Telugu Titans,353.0,Team Raid Points,Season 6
+22,12,7,Puneri Paltan,346.0,Team Raid Points,Season 6
+24,1,1,Bengaluru Bulls,22.79,Team Average Raid Points,Season 6
+22,2,6,Patna Pirates,22.55,Team Average Raid Points,Season 6
+22,3,28,Haryana Steelers,20.32,Team Average Raid Points,Season 6
+24,4,2,Dabang Delhi K.C.,20.13,Team Average Raid Points,Season 6
+23,5,5,U Mumba,19.96,Team Average Raid Points,Season 6
+25,6,31,Gujarat Fortunegiants,19.2,Team Average Raid Points,Season 6
+22,7,29,Tamil Thalaivas,19.05,Team Average Raid Points,Season 6
+23,8,4,Bengal Warriors,18.96,Team Average Raid Points,Season 6
+22,9,3,Jaipur Pink Panthers,18.86,Team Average Raid Points,Season 6
+25,10,30,U.P. Yoddha,17.96,Team Average Raid Points,Season 6
+22,11,8,Telugu Titans,16.05,Team Average Raid Points,Season 6
+22,12,7,Puneri Paltan,15.73,Team Average Raid Points,Season 6
+23,1,5,U Mumba,274.0,Team Successful Tackles,Season 6
+25,2,31,Gujarat Fortunegiants,258.0,Team Successful Tackles,Season 6
+25,3,30,U.P. Yoddha,240.0,Team Successful Tackles,Season 6
+24,4,1,Bengaluru Bulls,219.0,Team Successful Tackles,Season 6
+22,5,3,Jaipur Pink Panthers,202.0,Team Successful Tackles,Season 6
+22,5,8,Telugu Titans,202.0,Team Successful Tackles,Season 6
+24,7,2,Dabang Delhi K.C.,198.0,Team Successful Tackles,Season 6
+22,8,7,Puneri Paltan,189.0,Team Successful Tackles,Season 6
+23,9,4,Bengal Warriors,186.0,Team Successful Tackles,Season 6
+22,9,6,Patna Pirates,186.0,Team Successful Tackles,Season 6
+22,11,28,Haryana Steelers,180.0,Team Successful Tackles,Season 6
+22,12,29,Tamil Thalaivas,174.0,Team Successful Tackles,Season 6
+23,1,5,U Mumba,289.0,Team Tackle Points,Season 6
+25,2,31,Gujarat Fortunegiants,274.0,Team Tackle Points,Season 6
+25,3,30,U.P. Yoddha,265.0,Team Tackle Points,Season 6
+22,4,8,Telugu Titans,233.0,Team Tackle Points,Season 6
+24,5,1,Bengaluru Bulls,230.0,Team Tackle Points,Season 6
+22,6,3,Jaipur Pink Panthers,225.0,Team Tackle Points,Season 6
+22,7,7,Puneri Paltan,219.0,Team Tackle Points,Season 6
+24,8,2,Dabang Delhi K.C.,216.0,Team Tackle Points,Season 6
+22,9,6,Patna Pirates,201.0,Team Tackle Points,Season 6
+23,10,4,Bengal Warriors,200.0,Team Tackle Points,Season 6
+22,11,28,Haryana Steelers,193.0,Team Tackle Points,Season 6
+22,12,29,Tamil Thalaivas,189.0,Team Tackle Points,Season 6
+23,1,5,U Mumba,12.57,Team Average Tackle Points,Season 6
+25,2,31,Gujarat Fortunegiants,10.96,Team Average Tackle Points,Season 6
+25,3,30,U.P. Yoddha,10.6,Team Average Tackle Points,Season 6
+22,4,8,Telugu Titans,10.59,Team Average Tackle Points,Season 6
+22,5,3,Jaipur Pink Panthers,10.23,Team Average Tackle Points,Season 6
+22,6,7,Puneri Paltan,9.95,Team Average Tackle Points,Season 6
+24,7,1,Bengaluru Bulls,9.58,Team Average Tackle Points,Season 6
+22,8,6,Patna Pirates,9.14,Team Average Tackle Points,Season 6
+24,9,2,Dabang Delhi K.C.,9.0,Team Average Tackle Points,Season 6
+22,10,28,Haryana Steelers,8.77,Team Average Tackle Points,Season 6
+23,11,4,Bengal Warriors,8.7,Team Average Tackle Points,Season 6
+22,12,29,Tamil Thalaivas,8.59,Team Average Tackle Points,Season 6
+24,1,1,Bengaluru Bulls,20.0,Team Super Raid,Season 6
+23,2,4,Bengal Warriors,16.0,Team Super Raid,Season 6
+23,3,5,U Mumba,15.0,Team Super Raid,Season 6
+24,4,2,Dabang Delhi K.C.,13.0,Team Super Raid,Season 6
+22,4,3,Jaipur Pink Panthers,13.0,Team Super Raid,Season 6
+22,6,28,Haryana Steelers,12.0,Team Super Raid,Season 6
+22,7,6,Patna Pirates,11.0,Team Super Raid,Season 6
+25,8,30,U.P. Yoddha,10.0,Team Super Raid,Season 6
+25,8,31,Gujarat Fortunegiants,10.0,Team Super Raid,Season 6
+22,10,8,Telugu Titans,9.0,Team Super Raid,Season 6
+22,11,7,Puneri Paltan,7.0,Team Super Raid,Season 6
+22,11,29,Tamil Thalaivas,7.0,Team Super Raid,Season 6
+22,1,7,Puneri Paltan,34.0,Team Super Tackles,Season 6
+22,2,8,Telugu Titans,33.0,Team Super Tackles,Season 6
+25,3,30,U.P. Yoddha,27.0,Team Super Tackles,Season 6
+22,4,3,Jaipur Pink Panthers,25.0,Team Super Tackles,Season 6
+24,5,2,Dabang Delhi K.C.,19.0,Team Super Tackles,Season 6
+25,6,31,Gujarat Fortunegiants,18.0,Team Super Tackles,Season 6
+22,7,6,Patna Pirates,16.0,Team Super Tackles,Season 6
+23,7,4,Bengal Warriors,16.0,Team Super Tackles,Season 6
+23,9,5,U Mumba,15.0,Team Super Tackles,Season 6
+22,9,28,Haryana Steelers,15.0,Team Super Tackles,Season 6
+22,9,29,Tamil Thalaivas,15.0,Team Super Tackles,Season 6
+24,12,1,Bengaluru Bulls,12.0,Team Super Tackles,Season 6
+23,1,5,U Mumba,89.0,Team DOD Raid Points,Season 6
+25,2,30,U.P. Yoddha,86.0,Team DOD Raid Points,Season 6
+22,3,8,Telugu Titans,85.0,Team DOD Raid Points,Season 6
+23,3,4,Bengal Warriors,85.0,Team DOD Raid Points,Season 6
+22,5,3,Jaipur Pink Panthers,75.0,Team DOD Raid Points,Season 6
+25,6,31,Gujarat Fortunegiants,74.0,Team DOD Raid Points,Season 6
+24,7,1,Bengaluru Bulls,73.0,Team DOD Raid Points,Season 6
+24,7,2,Dabang Delhi K.C.,73.0,Team DOD Raid Points,Season 6
+22,9,7,Puneri Paltan,71.0,Team DOD Raid Points,Season 6
+22,10,29,Tamil Thalaivas,67.0,Team DOD Raid Points,Season 6
+22,11,6,Patna Pirates,54.0,Team DOD Raid Points,Season 6
+22,12,28,Haryana Steelers,45.0,Team DOD Raid Points,Season 6
+23,1,5,U Mumba,41.0,Team All-outs Inflicted,Season 6
+24,2,1,Bengaluru Bulls,37.0,Team All-outs Inflicted,Season 6
+25,3,31,Gujarat Fortunegiants,36.0,Team All-outs Inflicted,Season 6
+24,4,2,Dabang Delhi K.C.,34.0,Team All-outs Inflicted,Season 6
+22,5,6,Patna Pirates,30.0,Team All-outs Inflicted,Season 6
+25,6,30,U.P. Yoddha,26.0,Team All-outs Inflicted,Season 6
+23,7,4,Bengal Warriors,23.0,Team All-outs Inflicted,Season 6
+22,8,3,Jaipur Pink Panthers,22.0,Team All-outs Inflicted,Season 6
+22,9,29,Tamil Thalaivas,20.0,Team All-outs Inflicted,Season 6
+22,10,8,Telugu Titans,18.0,Team All-outs Inflicted,Season 6
+22,11,28,Haryana Steelers,16.0,Team All-outs Inflicted,Season 6
+22,12,7,Puneri Paltan,14.0,Team All-outs Inflicted,Season 6
+22,1,28,Haryana Steelers,33.0,Team All-outs Conceded,Season 6
+22,2,3,Jaipur Pink Panthers,32.0,Team All-outs Conceded,Season 6
+22,3,6,Patna Pirates,30.0,Team All-outs Conceded,Season 6
+25,3,30,U.P. Yoddha,30.0,Team All-outs Conceded,Season 6
+22,5,7,Puneri Paltan,29.0,Team All-outs Conceded,Season 6
+24,6,2,Dabang Delhi K.C.,28.0,Team All-outs Conceded,Season 6
+22,7,29,Tamil Thalaivas,27.0,Team All-outs Conceded,Season 6
+22,8,8,Telugu Titans,25.0,Team All-outs Conceded,Season 6
+24,9,1,Bengaluru Bulls,24.0,Team All-outs Conceded,Season 6
+23,10,4,Bengal Warriors,23.0,Team All-outs Conceded,Season 6
+25,11,31,Gujarat Fortunegiants,20.0,Team All-outs Conceded,Season 6
+23,12,5,U Mumba,16.0,Team All-outs Conceded,Season 6
+26,1,6,Patna Pirates,1050.0,Team Total Points,Season 5
+24,2,31,Gujarat Fortunegiants,775.0,Team Total Points,Season 5
+24,3,7,Puneri Paltan,766.0,Team Total Points,Season 5
+23,4,30,U.P. Yoddha,762.0,Team Total Points,Season 5
+24,5,4,Bengal Warriors,749.0,Team Total Points,Season 5
+23,6,28,Haryana Steelers,727.0,Team Total Points,Season 5
+22,7,5,U Mumba,707.0,Team Total Points,Season 5
+22,8,8,Telugu Titans,696.0,Team Total Points,Season 5
+22,9,1,Bengaluru Bulls,689.0,Team Total Points,Season 5
+22,10,29,Tamil Thalaivas,681.0,Team Total Points,Season 5
+22,11,3,Jaipur Pink Panthers,631.0,Team Total Points,Season 5
+22,12,2,Dabang Delhi K.C.,598.0,Team Total Points,Season 5
+26,1,6,Patna Pirates,921.0,Team Total Points Conceded,Season 5
+23,2,30,U.P. Yoddha,763.0,Team Total Points Conceded,Season 5
+24,3,4,Bengal Warriors,757.0,Team Total Points Conceded,Season 5
+22,3,5,U Mumba,757.0,Team Total Points Conceded,Season 5
+22,5,29,Tamil Thalaivas,752.0,Team Total Points Conceded,Season 5
+22,6,2,Dabang Delhi K.C.,731.0,Team Total Points Conceded,Season 5
+23,7,28,Haryana Steelers,726.0,Team Total Points Conceded,Season 5
+22,8,3,Jaipur Pink Panthers,723.0,Team Total Points Conceded,Season 5
+22,9,8,Telugu Titans,698.0,Team Total Points Conceded,Season 5
+24,10,7,Puneri Paltan,683.0,Team Total Points Conceded,Season 5
+22,11,1,Bengaluru Bulls,679.0,Team Total Points Conceded,Season 5
+24,12,31,Gujarat Fortunegiants,641.0,Team Total Points Conceded,Season 5
+26,1,6,Patna Pirates,34.19,Team Avg Points Scored,Season 5
+23,2,30,U.P. Yoddha,28.78,Team Avg Points Scored,Season 5
+22,3,5,U Mumba,28.22,Team Avg Points Scored,Season 5
+22,4,29,Tamil Thalaivas,27.77,Team Avg Points Scored,Season 5
+22,5,8,Telugu Titans,27.59,Team Avg Points Scored,Season 5
+24,6,31,Gujarat Fortunegiants,27.45,Team Avg Points Scored,Season 5
+23,7,28,Haryana Steelers,27.43,Team Avg Points Scored,Season 5
+24,8,7,Puneri Paltan,27.08,Team Avg Points Scored,Season 5
+24,9,4,Bengal Warriors,27.0,Team Avg Points Scored,Season 5
+22,10,1,Bengaluru Bulls,26.95,Team Avg Points Scored,Season 5
+22,11,3,Jaipur Pink Panthers,23.81,Team Avg Points Scored,Season 5
+22,12,2,Dabang Delhi K.C.,23.31,Team Avg Points Scored,Season 5
+26,1,6,Patna Pirates,487.0,Team Successful Raids,Season 5
+24,2,4,Bengal Warriors,379.0,Team Successful Raids,Season 5
+23,3,30,U.P. Yoddha,358.0,Team Successful Raids,Season 5
+22,4,29,Tamil Thalaivas,351.0,Team Successful Raids,Season 5
+22,5,1,Bengaluru Bulls,336.0,Team Successful Raids,Season 5
+24,6,31,Gujarat Fortunegiants,335.0,Team Successful Raids,Season 5
+22,7,8,Telugu Titans,332.0,Team Successful Raids,Season 5
+23,8,28,Haryana Steelers,327.0,Team Successful Raids,Season 5
+22,9,5,U Mumba,322.0,Team Successful Raids,Season 5
+24,10,7,Puneri Paltan,304.0,Team Successful Raids,Season 5
+22,11,3,Jaipur Pink Panthers,288.0,Team Successful Raids,Season 5
+22,12,2,Dabang Delhi K.C.,283.0,Team Successful Raids,Season 5
+26,1,6,Patna Pirates,637.0,Team Raid Points,Season 5
+23,2,30,U.P. Yoddha,461.0,Team Raid Points,Season 5
+24,3,4,Bengal Warriors,455.0,Team Raid Points,Season 5
+22,4,5,U Mumba,419.0,Team Raid Points,Season 5
+22,5,29,Tamil Thalaivas,410.0,Team Raid Points,Season 5
+24,6,31,Gujarat Fortunegiants,405.0,Team Raid Points,Season 5
+23,7,28,Haryana Steelers,404.0,Team Raid Points,Season 5
+22,8,8,Telugu Titans,400.0,Team Raid Points,Season 5
+22,9,1,Bengaluru Bulls,393.0,Team Raid Points,Season 5
+24,10,7,Puneri Paltan,379.0,Team Raid Points,Season 5
+22,11,3,Jaipur Pink Panthers,353.0,Team Raid Points,Season 5
+22,12,2,Dabang Delhi K.C.,344.0,Team Raid Points,Season 5
+26,1,6,Patna Pirates,24.5,Team Average Raid Points,Season 5
+23,2,30,U.P. Yoddha,20.04,Team Average Raid Points,Season 5
+22,3,5,U Mumba,19.05,Team Average Raid Points,Season 5
+24,4,4,Bengal Warriors,18.96,Team Average Raid Points,Season 5
+22,5,29,Tamil Thalaivas,18.64,Team Average Raid Points,Season 5
+22,6,8,Telugu Titans,18.18,Team Average Raid Points,Season 5
+22,7,1,Bengaluru Bulls,17.86,Team Average Raid Points,Season 5
+23,8,28,Haryana Steelers,17.57,Team Average Raid Points,Season 5
+24,9,31,Gujarat Fortunegiants,16.88,Team Average Raid Points,Season 5
+22,10,3,Jaipur Pink Panthers,16.05,Team Average Raid Points,Season 5
+24,11,7,Puneri Paltan,15.79,Team Average Raid Points,Season 5
+22,12,2,Dabang Delhi K.C.,15.64,Team Average Raid Points,Season 5
+24,1,7,Puneri Paltan,252.0,Team Successful Tackles,Season 5
+24,2,31,Gujarat Fortunegiants,242.0,Team Successful Tackles,Season 5
+26,3,6,Patna Pirates,226.0,Team Successful Tackles,Season 5
+23,4,28,Haryana Steelers,206.0,Team Successful Tackles,Season 5
+22,5,8,Telugu Titans,191.0,Team Successful Tackles,Season 5
+22,6,1,Bengaluru Bulls,185.0,Team Successful Tackles,Season 5
+22,7,29,Tamil Thalaivas,184.0,Team Successful Tackles,Season 5
+23,8,30,U.P. Yoddha,183.0,Team Successful Tackles,Season 5
+24,9,4,Bengal Warriors,181.0,Team Successful Tackles,Season 5
+22,10,5,U Mumba,176.0,Team Successful Tackles,Season 5
+22,11,3,Jaipur Pink Panthers,162.0,Team Successful Tackles,Season 5
+22,12,2,Dabang Delhi K.C.,159.0,Team Successful Tackles,Season 5
+24,1,7,Puneri Paltan,271.0,Team Tackle Points,Season 5
+24,2,31,Gujarat Fortunegiants,254.0,Team Tackle Points,Season 5
+26,3,6,Patna Pirates,252.0,Team Tackle Points,Season 5
+23,4,28,Haryana Steelers,227.0,Team Tackle Points,Season 5
+22,5,8,Telugu Titans,207.0,Team Tackle Points,Season 5
+22,6,5,U Mumba,202.0,Team Tackle Points,Season 5
+22,7,29,Tamil Thalaivas,201.0,Team Tackle Points,Season 5
+23,7,30,U.P. Yoddha,201.0,Team Tackle Points,Season 5
+22,9,1,Bengaluru Bulls,200.0,Team Tackle Points,Season 5
+24,10,4,Bengal Warriors,193.0,Team Tackle Points,Season 5
+22,11,3,Jaipur Pink Panthers,171.0,Team Tackle Points,Season 5
+22,12,2,Dabang Delhi K.C.,169.0,Team Tackle Points,Season 5
+24,1,7,Puneri Paltan,11.29,Team Average Tackle Points,Season 5
+24,2,31,Gujarat Fortunegiants,10.58,Team Average Tackle Points,Season 5
+23,3,28,Haryana Steelers,9.87,Team Average Tackle Points,Season 5
+26,4,6,Patna Pirates,9.69,Team Average Tackle Points,Season 5
+22,5,8,Telugu Titans,9.41,Team Average Tackle Points,Season 5
+22,6,5,U Mumba,9.18,Team Average Tackle Points,Season 5
+22,7,29,Tamil Thalaivas,9.14,Team Average Tackle Points,Season 5
+22,8,1,Bengaluru Bulls,9.09,Team Average Tackle Points,Season 5
+23,9,30,U.P. Yoddha,8.74,Team Average Tackle Points,Season 5
+24,10,4,Bengal Warriors,8.04,Team Average Tackle Points,Season 5
+22,11,3,Jaipur Pink Panthers,7.77,Team Average Tackle Points,Season 5
+22,12,2,Dabang Delhi K.C.,7.68,Team Average Tackle Points,Season 5
+26,1,6,Patna Pirates,26.0,Team Super Raid,Season 5
+23,2,30,U.P. Yoddha,23.0,Team Super Raid,Season 5
+22,3,3,Jaipur Pink Panthers,13.0,Team Super Raid,Season 5
+24,4,7,Puneri Paltan,12.0,Team Super Raid,Season 5
+23,4,28,Haryana Steelers,12.0,Team Super Raid,Season 5
+24,6,4,Bengal Warriors,11.0,Team Super Raid,Season 5
+24,6,31,Gujarat Fortunegiants,11.0,Team Super Raid,Season 5
+22,8,5,U Mumba,10.0,Team Super Raid,Season 5
+22,8,8,Telugu Titans,10.0,Team Super Raid,Season 5
+22,10,2,Dabang Delhi K.C.,6.0,Team Super Raid,Season 5
+22,11,1,Bengaluru Bulls,5.0,Team Super Raid,Season 5
+22,11,29,Tamil Thalaivas,5.0,Team Super Raid,Season 5
+26,1,6,Patna Pirates,27.0,Team Super Tackles,Season 5
+22,2,5,U Mumba,26.0,Team Super Tackles,Season 5
+24,3,7,Puneri Paltan,21.0,Team Super Tackles,Season 5
+23,3,28,Haryana Steelers,21.0,Team Super Tackles,Season 5
+23,5,30,U.P. Yoddha,19.0,Team Super Tackles,Season 5
+22,6,29,Tamil Thalaivas,17.0,Team Super Tackles,Season 5
+22,6,8,Telugu Titans,17.0,Team Super Tackles,Season 5
+22,6,1,Bengaluru Bulls,17.0,Team Super Tackles,Season 5
+22,9,2,Dabang Delhi K.C.,12.0,Team Super Tackles,Season 5
+24,9,4,Bengal Warriors,12.0,Team Super Tackles,Season 5
+24,9,31,Gujarat Fortunegiants,12.0,Team Super Tackles,Season 5
+22,12,3,Jaipur Pink Panthers,10.0,Team Super Tackles,Season 5
+24,1,7,Puneri Paltan,119.0,Team DOD Raid Points,Season 5
+23,2,28,Haryana Steelers,105.0,Team DOD Raid Points,Season 5
+24,3,31,Gujarat Fortunegiants,98.0,Team DOD Raid Points,Season 5
+26,4,6,Patna Pirates,95.0,Team DOD Raid Points,Season 5
+22,5,2,Dabang Delhi K.C.,94.0,Team DOD Raid Points,Season 5
+22,6,1,Bengaluru Bulls,93.0,Team DOD Raid Points,Season 5
+22,7,29,Tamil Thalaivas,89.0,Team DOD Raid Points,Season 5
+22,8,8,Telugu Titans,88.0,Team DOD Raid Points,Season 5
+24,9,4,Bengal Warriors,87.0,Team DOD Raid Points,Season 5
+22,10,3,Jaipur Pink Panthers,83.0,Team DOD Raid Points,Season 5
+23,10,30,U.P. Yoddha,83.0,Team DOD Raid Points,Season 5
+22,12,5,U Mumba,78.0,Team DOD Raid Points,Season 5
+26,1,6,Patna Pirates,55.0,Team All-outs Inflicted,Season 5
+24,2,31,Gujarat Fortunegiants,36.0,Team All-outs Inflicted,Season 5
+24,3,7,Puneri Paltan,32.0,Team All-outs Inflicted,Season 5
+22,4,1,Bengaluru Bulls,28.0,Team All-outs Inflicted,Season 5
+24,5,4,Bengal Warriors,27.0,Team All-outs Inflicted,Season 5
+23,5,28,Haryana Steelers,27.0,Team All-outs Inflicted,Season 5
+22,7,8,Telugu Titans,25.0,Team All-outs Inflicted,Season 5
+23,8,30,U.P. Yoddha,23.0,Team All-outs Inflicted,Season 5
+22,9,3,Jaipur Pink Panthers,22.0,Team All-outs Inflicted,Season 5
+22,10,5,U Mumba,21.0,Team All-outs Inflicted,Season 5
+22,11,29,Tamil Thalaivas,19.0,Team All-outs Inflicted,Season 5
+22,12,2,Dabang Delhi K.C.,18.0,Team All-outs Inflicted,Season 5
+22,1,5,U Mumba,36.0,Team All-outs Conceded,Season 5
+22,2,2,Dabang Delhi K.C.,35.0,Team All-outs Conceded,Season 5
+23,3,30,U.P. Yoddha,32.0,Team All-outs Conceded,Season 5
+22,4,29,Tamil Thalaivas,31.0,Team All-outs Conceded,Season 5
+24,5,4,Bengal Warriors,29.0,Team All-outs Conceded,Season 5
+26,5,6,Patna Pirates,29.0,Team All-outs Conceded,Season 5
+22,7,3,Jaipur Pink Panthers,27.0,Team All-outs Conceded,Season 5
+22,8,8,Telugu Titans,26.0,Team All-outs Conceded,Season 5
+22,9,1,Bengaluru Bulls,25.0,Team All-outs Conceded,Season 5
+23,10,28,Haryana Steelers,23.0,Team All-outs Conceded,Season 5
+24,10,7,Puneri Paltan,23.0,Team All-outs Conceded,Season 5
+24,12,31,Gujarat Fortunegiants,17.0,Team All-outs Conceded,Season 5
+16,1,7,Puneri Paltan,515.0,Team Total Points,Season 4
+16,2,8,Telugu Titans,506.0,Team Total Points,Season 4
+16,3,6,Patna Pirates,492.0,Team Total Points,Season 4
+16,4,3,Jaipur Pink Panthers,475.0,Team Total Points,Season 4
+14,5,2,Dabang Delhi K.C.,419.0,Team Total Points,Season 4
+14,6,5,U Mumba,399.0,Team Total Points,Season 4
+14,7,4,Bengal Warriors,378.0,Team Total Points,Season 4
+14,8,1,Bengaluru Bulls,360.0,Team Total Points,Season 4
+16,1,7,Puneri Paltan,491.0,Team Total Points Conceded,Season 4
+16,2,6,Patna Pirates,466.0,Team Total Points Conceded,Season 4
+16,3,8,Telugu Titans,454.0,Team Total Points Conceded,Season 4
+16,4,3,Jaipur Pink Panthers,450.0,Team Total Points Conceded,Season 4
+14,5,4,Bengal Warriors,438.0,Team Total Points Conceded,Season 4
+14,6,5,U Mumba,418.0,Team Total Points Conceded,Season 4
+14,7,1,Bengaluru Bulls,415.0,Team Total Points Conceded,Season 4
+14,8,2,Dabang Delhi K.C.,412.0,Team Total Points Conceded,Season 4
+16,1,7,Puneri Paltan,27.25,Team Avg Points Scored,Season 4
+16,2,6,Patna Pirates,27.18,Team Avg Points Scored,Season 4
+16,3,8,Telugu Titans,26.81,Team Avg Points Scored,Season 4
+14,4,2,Dabang Delhi K.C.,25.71,Team Avg Points Scored,Season 4
+16,5,3,Jaipur Pink Panthers,25.31,Team Avg Points Scored,Season 4
+14,6,5,U Mumba,24.85,Team Avg Points Scored,Season 4
+14,7,4,Bengal Warriors,23.35,Team Avg Points Scored,Season 4
+14,8,1,Bengaluru Bulls,23.21,Team Avg Points Scored,Season 4
+16,1,7,Puneri Paltan,230.0,Team Successful Raids,Season 4
+16,2,8,Telugu Titans,206.0,Team Successful Raids,Season 4
+16,2,6,Patna Pirates,206.0,Team Successful Raids,Season 4
+16,4,3,Jaipur Pink Panthers,203.0,Team Successful Raids,Season 4
+14,5,5,U Mumba,188.0,Team Successful Raids,Season 4
+14,6,4,Bengal Warriors,167.0,Team Successful Raids,Season 4
+14,7,2,Dabang Delhi K.C.,162.0,Team Successful Raids,Season 4
+14,8,1,Bengaluru Bulls,157.0,Team Successful Raids,Season 4
+16,1,7,Puneri Paltan,290.0,Team Raid Points,Season 4
+16,2,3,Jaipur Pink Panthers,270.0,Team Raid Points,Season 4
+16,3,8,Telugu Titans,267.0,Team Raid Points,Season 4
+16,4,6,Patna Pirates,264.0,Team Raid Points,Season 4
+14,5,5,U Mumba,227.0,Team Raid Points,Season 4
+14,6,2,Dabang Delhi K.C.,226.0,Team Raid Points,Season 4
+14,7,4,Bengal Warriors,202.0,Team Raid Points,Season 4
+14,8,1,Bengaluru Bulls,201.0,Team Raid Points,Season 4
+16,1,7,Puneri Paltan,18.13,Team Average Raid Points,Season 4
+16,2,3,Jaipur Pink Panthers,16.88,Team Average Raid Points,Season 4
+16,3,8,Telugu Titans,16.69,Team Average Raid Points,Season 4
+16,4,6,Patna Pirates,16.5,Team Average Raid Points,Season 4
+14,5,5,U Mumba,16.21,Team Average Raid Points,Season 4
+14,6,2,Dabang Delhi K.C.,16.14,Team Average Raid Points,Season 4
+14,7,4,Bengal Warriors,14.43,Team Average Raid Points,Season 4
+14,8,1,Bengaluru Bulls,14.36,Team Average Raid Points,Season 4
+16,1,8,Telugu Titans,157.0,Team Successful Tackles,Season 4
+16,2,6,Patna Pirates,145.0,Team Successful Tackles,Season 4
+16,3,7,Puneri Paltan,140.0,Team Successful Tackles,Season 4
+16,4,3,Jaipur Pink Panthers,119.0,Team Successful Tackles,Season 4
+14,5,4,Bengal Warriors,117.0,Team Successful Tackles,Season 4
+14,6,2,Dabang Delhi K.C.,116.0,Team Successful Tackles,Season 4
+14,7,5,U Mumba,110.0,Team Successful Tackles,Season 4
+14,8,1,Bengaluru Bulls,109.0,Team Successful Tackles,Season 4
+16,1,6,Patna Pirates,171.0,Team Tackle Points,Season 4
+16,2,8,Telugu Titans,162.0,Team Tackle Points,Season 4
+16,3,7,Puneri Paltan,146.0,Team Tackle Points,Season 4
+16,4,3,Jaipur Pink Panthers,135.0,Team Tackle Points,Season 4
+14,5,2,Dabang Delhi K.C.,134.0,Team Tackle Points,Season 4
+14,6,4,Bengal Warriors,125.0,Team Tackle Points,Season 4
+14,7,1,Bengaluru Bulls,124.0,Team Tackle Points,Season 4
+14,8,5,U Mumba,121.0,Team Tackle Points,Season 4
+16,1,6,Patna Pirates,10.69,Team Average Tackle Points,Season 4
+16,2,8,Telugu Titans,10.13,Team Average Tackle Points,Season 4
+14,3,2,Dabang Delhi K.C.,9.57,Team Average Tackle Points,Season 4
+16,4,7,Puneri Paltan,9.13,Team Average Tackle Points,Season 4
+14,5,4,Bengal Warriors,8.93,Team Average Tackle Points,Season 4
+14,6,1,Bengaluru Bulls,8.86,Team Average Tackle Points,Season 4
+14,7,5,U Mumba,8.64,Team Average Tackle Points,Season 4
+16,8,3,Jaipur Pink Panthers,8.44,Team Average Tackle Points,Season 4
+14,1,2,Dabang Delhi K.C.,11.0,Team Super Raid,Season 4
+16,2,7,Puneri Paltan,10.0,Team Super Raid,Season 4
+16,3,8,Telugu Titans,7.0,Team Super Raid,Season 4
+16,3,6,Patna Pirates,7.0,Team Super Raid,Season 4
+16,5,3,Jaipur Pink Panthers,6.0,Team Super Raid,Season 4
+14,6,4,Bengal Warriors,4.0,Team Super Raid,Season 4
+14,6,5,U Mumba,4.0,Team Super Raid,Season 4
+14,6,1,Bengaluru Bulls,4.0,Team Super Raid,Season 4
+16,1,6,Patna Pirates,27.0,Team Super Tackles,Season 4
+14,2,2,Dabang Delhi K.C.,20.0,Team Super Tackles,Season 4
+16,3,3,Jaipur Pink Panthers,17.0,Team Super Tackles,Season 4
+14,4,1,Bengaluru Bulls,15.0,Team Super Tackles,Season 4
+14,5,5,U Mumba,11.0,Team Super Tackles,Season 4
+14,6,4,Bengal Warriors,8.0,Team Super Tackles,Season 4
+16,7,7,Puneri Paltan,7.0,Team Super Tackles,Season 4
+16,8,8,Telugu Titans,5.0,Team Super Tackles,Season 4
+14,1,2,Dabang Delhi K.C.,84.0,Team DOD Raid Points,Season 4
+16,2,3,Jaipur Pink Panthers,80.0,Team DOD Raid Points,Season 4
+16,3,7,Puneri Paltan,77.0,Team DOD Raid Points,Season 4
+16,4,8,Telugu Titans,76.0,Team DOD Raid Points,Season 4
+16,5,6,Patna Pirates,73.0,Team DOD Raid Points,Season 4
+14,6,4,Bengal Warriors,62.0,Team DOD Raid Points,Season 4
+14,7,1,Bengaluru Bulls,59.0,Team DOD Raid Points,Season 4
+14,8,5,U Mumba,42.0,Team DOD Raid Points,Season 4
+16,1,8,Telugu Titans,22.0,Team All-outs Inflicted,Season 4
+16,2,7,Puneri Paltan,21.0,Team All-outs Inflicted,Season 4
+16,3,6,Patna Pirates,19.0,Team All-outs Inflicted,Season 4
+16,4,3,Jaipur Pink Panthers,17.0,Team All-outs Inflicted,Season 4
+14,5,2,Dabang Delhi K.C.,15.0,Team All-outs Inflicted,Season 4
+14,5,5,U Mumba,15.0,Team All-outs Inflicted,Season 4
+14,7,4,Bengal Warriors,11.0,Team All-outs Inflicted,Season 4
+14,8,1,Bengaluru Bulls,9.0,Team All-outs Inflicted,Season 4
+14,1,1,Bengaluru Bulls,21.0,Team All-outs Conceded,Season 4
+14,1,5,U Mumba,21.0,Team All-outs Conceded,Season 4
+16,3,7,Puneri Paltan,17.0,Team All-outs Conceded,Season 4
+14,4,2,Dabang Delhi K.C.,16.0,Team All-outs Conceded,Season 4
+14,5,4,Bengal Warriors,15.0,Team All-outs Conceded,Season 4
+16,6,3,Jaipur Pink Panthers,14.0,Team All-outs Conceded,Season 4
+16,7,8,Telugu Titans,13.0,Team All-outs Conceded,Season 4
+16,8,6,Patna Pirates,12.0,Team All-outs Conceded,Season 4
+16,1,6,Patna Pirates,594.0,Team Total Points,Season 3
+16,2,7,Puneri Paltan,510.0,Team Total Points,Season 3
+16,3,5,U Mumba,502.0,Team Total Points,Season 3
+16,4,4,Bengal Warriors,460.0,Team Total Points,Season 3
+14,5,8,Telugu Titans,427.0,Team Total Points,Season 3
+14,6,2,Dabang Delhi K.C.,384.0,Team Total Points,Season 3
+14,7,3,Jaipur Pink Panthers,364.0,Team Total Points,Season 3
+14,8,1,Bengaluru Bulls,362.0,Team Total Points,Season 3
+14,1,2,Dabang Delhi K.C.,525.0,Team Total Points Conceded,Season 3
+16,2,6,Patna Pirates,468.0,Team Total Points Conceded,Season 3
+14,3,1,Bengaluru Bulls,467.0,Team Total Points Conceded,Season 3
+16,4,4,Bengal Warriors,449.0,Team Total Points Conceded,Season 3
+14,5,8,Telugu Titans,437.0,Team Total Points Conceded,Season 3
+16,6,7,Puneri Paltan,433.0,Team Total Points Conceded,Season 3
+14,7,3,Jaipur Pink Panthers,427.0,Team Total Points Conceded,Season 3
+16,8,5,U Mumba,397.0,Team Total Points Conceded,Season 3
+16,1,6,Patna Pirates,31.62,Team Avg Points Scored,Season 3
+16,2,7,Puneri Paltan,27.37,Team Avg Points Scored,Season 3
+14,3,8,Telugu Titans,26.42,Team Avg Points Scored,Season 3
+16,4,5,U Mumba,26.37,Team Avg Points Scored,Season 3
+16,5,4,Bengal Warriors,25.0,Team Avg Points Scored,Season 3
+14,6,2,Dabang Delhi K.C.,24.57,Team Avg Points Scored,Season 3
+14,7,3,Jaipur Pink Panthers,22.14,Team Avg Points Scored,Season 3
+14,8,1,Bengaluru Bulls,22.07,Team Avg Points Scored,Season 3
+16,1,6,Patna Pirates,241.0,Team Successful Raids,Season 3
+16,2,4,Bengal Warriors,213.0,Team Successful Raids,Season 3
+16,3,5,U Mumba,206.0,Team Successful Raids,Season 3
+14,3,8,Telugu Titans,206.0,Team Successful Raids,Season 3
+16,5,7,Puneri Paltan,203.0,Team Successful Raids,Season 3
+14,6,2,Dabang Delhi K.C.,171.0,Team Successful Raids,Season 3
+14,7,1,Bengaluru Bulls,158.0,Team Successful Raids,Season 3
+14,8,3,Jaipur Pink Panthers,149.0,Team Successful Raids,Season 3
+16,1,6,Patna Pirates,324.0,Team Raid Points,Season 3
+14,2,8,Telugu Titans,254.0,Team Raid Points,Season 3
+16,3,5,U Mumba,253.0,Team Raid Points,Season 3
+16,4,7,Puneri Paltan,251.0,Team Raid Points,Season 3
+16,5,4,Bengal Warriors,250.0,Team Raid Points,Season 3
+14,6,2,Dabang Delhi K.C.,233.0,Team Raid Points,Season 3
+14,7,1,Bengaluru Bulls,209.0,Team Raid Points,Season 3
+14,8,3,Jaipur Pink Panthers,193.0,Team Raid Points,Season 3
+16,1,6,Patna Pirates,20.25,Team Average Raid Points,Season 3
+14,2,8,Telugu Titans,18.14,Team Average Raid Points,Season 3
+14,3,2,Dabang Delhi K.C.,16.64,Team Average Raid Points,Season 3
+16,4,5,U Mumba,15.81,Team Average Raid Points,Season 3
+16,5,7,Puneri Paltan,15.69,Team Average Raid Points,Season 3
+16,6,4,Bengal Warriors,15.63,Team Average Raid Points,Season 3
+14,7,1,Bengaluru Bulls,14.93,Team Average Raid Points,Season 3
+14,8,3,Jaipur Pink Panthers,13.79,Team Average Raid Points,Season 3
+16,1,6,Patna Pirates,175.0,Team Successful Tackles,Season 3
+16,2,7,Puneri Paltan,174.0,Team Successful Tackles,Season 3
+16,3,5,U Mumba,163.0,Team Successful Tackles,Season 3
+16,4,4,Bengal Warriors,137.0,Team Successful Tackles,Season 3
+14,5,3,Jaipur Pink Panthers,101.0,Team Successful Tackles,Season 3
+14,5,8,Telugu Titans,101.0,Team Successful Tackles,Season 3
+14,7,2,Dabang Delhi K.C.,98.0,Team Successful Tackles,Season 3
+14,8,1,Bengaluru Bulls,94.0,Team Successful Tackles,Season 3
+16,1,7,Puneri Paltan,187.0,Team Tackle Points,Season 3
+16,2,6,Patna Pirates,182.0,Team Tackle Points,Season 3
+16,3,5,U Mumba,169.0,Team Tackle Points,Season 3
+16,4,4,Bengal Warriors,150.0,Team Tackle Points,Season 3
+14,5,3,Jaipur Pink Panthers,117.0,Team Tackle Points,Season 3
+14,6,8,Telugu Titans,116.0,Team Tackle Points,Season 3
+14,7,2,Dabang Delhi K.C.,111.0,Team Tackle Points,Season 3
+14,8,1,Bengaluru Bulls,100.0,Team Tackle Points,Season 3
+16,1,7,Puneri Paltan,11.69,Team Average Tackle Points,Season 3
+16,2,6,Patna Pirates,11.38,Team Average Tackle Points,Season 3
+16,3,5,U Mumba,10.56,Team Average Tackle Points,Season 3
+16,4,4,Bengal Warriors,9.38,Team Average Tackle Points,Season 3
+14,5,3,Jaipur Pink Panthers,8.36,Team Average Tackle Points,Season 3
+14,6,8,Telugu Titans,8.29,Team Average Tackle Points,Season 3
+14,7,2,Dabang Delhi K.C.,7.93,Team Average Tackle Points,Season 3
+14,8,1,Bengaluru Bulls,7.14,Team Average Tackle Points,Season 3
+16,1,6,Patna Pirates,16.0,Team Super Raid,Season 3
+16,2,7,Puneri Paltan,9.0,Team Super Raid,Season 3
+14,2,1,Bengaluru Bulls,9.0,Team Super Raid,Season 3
+14,4,3,Jaipur Pink Panthers,8.0,Team Super Raid,Season 3
+16,5,5,U Mumba,7.0,Team Super Raid,Season 3
+14,6,2,Dabang Delhi K.C.,5.0,Team Super Raid,Season 3
+16,7,4,Bengal Warriors,4.0,Team Super Raid,Season 3
+14,8,8,Telugu Titans,3.0,Team Super Raid,Season 3
+14,1,3,Jaipur Pink Panthers,16.0,Team Super Tackles,Season 3
+14,2,8,Telugu Titans,15.0,Team Super Tackles,Season 3
+16,3,7,Puneri Paltan,13.0,Team Super Tackles,Season 3
+16,3,4,Bengal Warriors,13.0,Team Super Tackles,Season 3
+14,3,2,Dabang Delhi K.C.,13.0,Team Super Tackles,Season 3
+14,6,1,Bengaluru Bulls,7.0,Team Super Tackles,Season 3
+16,6,6,Patna Pirates,7.0,Team Super Tackles,Season 3
+16,8,5,U Mumba,6.0,Team Super Tackles,Season 3
+16,1,7,Puneri Paltan,87.0,Team DOD Raid Points,Season 3
+16,2,6,Patna Pirates,74.0,Team DOD Raid Points,Season 3
+16,3,4,Bengal Warriors,70.0,Team DOD Raid Points,Season 3
+14,4,1,Bengaluru Bulls,69.0,Team DOD Raid Points,Season 3
+16,5,5,U Mumba,59.0,Team DOD Raid Points,Season 3
+14,5,3,Jaipur Pink Panthers,59.0,Team DOD Raid Points,Season 3
+14,7,2,Dabang Delhi K.C.,54.0,Team DOD Raid Points,Season 3
+14,8,8,Telugu Titans,44.0,Team DOD Raid Points,Season 3
+16,1,6,Patna Pirates,30.0,Team All-outs Inflicted,Season 3
+16,2,5,U Mumba,27.0,Team All-outs Inflicted,Season 3
+16,3,7,Puneri Paltan,25.0,Team All-outs Inflicted,Season 3
+16,4,4,Bengal Warriors,17.0,Team All-outs Inflicted,Season 3
+14,5,8,Telugu Titans,13.0,Team All-outs Inflicted,Season 3
+14,6,1,Bengaluru Bulls,12.0,Team All-outs Inflicted,Season 3
+14,7,3,Jaipur Pink Panthers,11.0,Team All-outs Inflicted,Season 3
+14,8,2,Dabang Delhi K.C.,9.0,Team All-outs Inflicted,Season 3
+14,1,2,Dabang Delhi K.C.,28.0,Team All-outs Conceded,Season 3
+14,2,3,Jaipur Pink Panthers,22.0,Team All-outs Conceded,Season 3
+14,3,1,Bengaluru Bulls,21.0,Team All-outs Conceded,Season 3
+16,4,4,Bengal Warriors,18.0,Team All-outs Conceded,Season 3
+14,5,8,Telugu Titans,17.0,Team All-outs Conceded,Season 3
+16,6,6,Patna Pirates,13.0,Team All-outs Conceded,Season 3
+16,6,7,Puneri Paltan,13.0,Team All-outs Conceded,Season 3
+16,8,5,U Mumba,12.0,Team All-outs Conceded,Season 3
+16,1,8,Telugu Titans,586.0,Team Total Points,Season 2
+16,2,1,Bengaluru Bulls,508.0,Team Total Points,Season 2
+16,3,5,U Mumba,489.0,Team Total Points,Season 2
+16,4,6,Patna Pirates,444.0,Team Total Points,Season 2
+14,5,3,Jaipur Pink Panthers,442.0,Team Total Points,Season 2
+14,6,2,Dabang Delhi K.C.,396.0,Team Total Points,Season 2
+14,7,7,Puneri Paltan,391.0,Team Total Points,Season 2
+14,8,4,Bengal Warriors,367.0,Team Total Points,Season 2
+16,1,8,Telugu Titans,493.0,Team Total Points Conceded,Season 2
+16,2,6,Patna Pirates,489.0,Team Total Points Conceded,Season 2
+14,3,7,Puneri Paltan,465.0,Team Total Points Conceded,Season 2
+14,4,2,Dabang Delhi K.C.,464.0,Team Total Points Conceded,Season 2
+16,5,1,Bengaluru Bulls,457.0,Team Total Points Conceded,Season 2
+14,6,4,Bengal Warriors,430.0,Team Total Points Conceded,Season 2
+16,7,5,U Mumba,426.0,Team Total Points Conceded,Season 2
+14,8,3,Jaipur Pink Panthers,399.0,Team Total Points Conceded,Season 2
+16,1,8,Telugu Titans,32.25,Team Avg Points Scored,Season 2
+16,2,5,U Mumba,27.06,Team Avg Points Scored,Season 2
+14,3,3,Jaipur Pink Panthers,26.71,Team Avg Points Scored,Season 2
+16,4,1,Bengaluru Bulls,26.0,Team Avg Points Scored,Season 2
+14,5,2,Dabang Delhi K.C.,25.21,Team Avg Points Scored,Season 2
+16,6,6,Patna Pirates,24.5,Team Avg Points Scored,Season 2
+14,7,7,Puneri Paltan,24.07,Team Avg Points Scored,Season 2
+14,8,4,Bengal Warriors,22.85,Team Avg Points Scored,Season 2
+16,1,8,Telugu Titans,265.0,Team Successful Raids,Season 2
+16,2,1,Bengaluru Bulls,194.0,Team Successful Raids,Season 2
+16,3,5,U Mumba,187.0,Team Successful Raids,Season 2
+14,4,3,Jaipur Pink Panthers,183.0,Team Successful Raids,Season 2
+16,5,6,Patna Pirates,182.0,Team Successful Raids,Season 2
+14,6,7,Puneri Paltan,170.0,Team Successful Raids,Season 2
+14,7,2,Dabang Delhi K.C.,159.0,Team Successful Raids,Season 2
+14,8,4,Bengal Warriors,134.0,Team Successful Raids,Season 2
+16,1,8,Telugu Titans,344.0,Team Raid Points,Season 2
+16,2,1,Bengaluru Bulls,252.0,Team Raid Points,Season 2
+16,3,5,U Mumba,237.0,Team Raid Points,Season 2
+14,4,3,Jaipur Pink Panthers,232.0,Team Raid Points,Season 2
+16,5,6,Patna Pirates,228.0,Team Raid Points,Season 2
+14,6,7,Puneri Paltan,223.0,Team Raid Points,Season 2
+14,7,2,Dabang Delhi K.C.,217.0,Team Raid Points,Season 2
+14,8,4,Bengal Warriors,184.0,Team Raid Points,Season 2
+16,1,8,Telugu Titans,21.5,Team Average Raid Points,Season 2
+14,2,3,Jaipur Pink Panthers,16.57,Team Average Raid Points,Season 2
+14,3,7,Puneri Paltan,15.93,Team Average Raid Points,Season 2
+16,4,1,Bengaluru Bulls,15.75,Team Average Raid Points,Season 2
+14,5,2,Dabang Delhi K.C.,15.5,Team Average Raid Points,Season 2
+16,6,5,U Mumba,14.81,Team Average Raid Points,Season 2
+16,7,6,Patna Pirates,14.25,Team Average Raid Points,Season 2
+14,8,4,Bengal Warriors,13.14,Team Average Raid Points,Season 2
+16,1,5,U Mumba,180.0,Team Successful Tackles,Season 2
+16,2,8,Telugu Titans,158.0,Team Successful Tackles,Season 2
+16,2,1,Bengaluru Bulls,158.0,Team Successful Tackles,Season 2
+16,4,6,Patna Pirates,152.0,Team Successful Tackles,Season 2
+14,5,3,Jaipur Pink Panthers,124.0,Team Successful Tackles,Season 2
+14,6,2,Dabang Delhi K.C.,122.0,Team Successful Tackles,Season 2
+14,7,4,Bengal Warriors,116.0,Team Successful Tackles,Season 2
+14,8,7,Puneri Paltan,104.0,Team Successful Tackles,Season 2
+16,1,5,U Mumba,196.0,Team Tackle Points,Season 2
+16,2,8,Telugu Titans,172.0,Team Tackle Points,Season 2
+16,3,6,Patna Pirates,164.0,Team Tackle Points,Season 2
+16,3,1,Bengaluru Bulls,164.0,Team Tackle Points,Season 2
+14,5,3,Jaipur Pink Panthers,142.0,Team Tackle Points,Season 2
+14,6,4,Bengal Warriors,136.0,Team Tackle Points,Season 2
+14,6,2,Dabang Delhi K.C.,136.0,Team Tackle Points,Season 2
+14,8,7,Puneri Paltan,114.0,Team Tackle Points,Season 2
+16,1,5,U Mumba,12.25,Team Average Tackle Points,Season 2
+16,2,8,Telugu Titans,10.75,Team Average Tackle Points,Season 2
+16,3,6,Patna Pirates,10.25,Team Average Tackle Points,Season 2
+16,3,1,Bengaluru Bulls,10.25,Team Average Tackle Points,Season 2
+14,5,3,Jaipur Pink Panthers,10.14,Team Average Tackle Points,Season 2
+14,6,4,Bengal Warriors,9.71,Team Average Tackle Points,Season 2
+14,6,2,Dabang Delhi K.C.,9.71,Team Average Tackle Points,Season 2
+14,8,7,Puneri Paltan,8.14,Team Average Tackle Points,Season 2
+16,1,8,Telugu Titans,16.0,Team Super Raid,Season 2
+14,2,2,Dabang Delhi K.C.,14.0,Team Super Raid,Season 2
+16,3,1,Bengaluru Bulls,10.0,Team Super Raid,Season 2
+14,4,4,Bengal Warriors,9.0,Team Super Raid,Season 2
+14,5,7,Puneri Paltan,8.0,Team Super Raid,Season 2
+16,6,5,U Mumba,7.0,Team Super Raid,Season 2
+14,7,3,Jaipur Pink Panthers,5.0,Team Super Raid,Season 2
+16,8,6,Patna Pirates,4.0,Team Super Raid,Season 2
+14,1,4,Bengal Warriors,21.0,Team Super Tackles,Season 2
+14,2,3,Jaipur Pink Panthers,18.0,Team Super Tackles,Season 2
+16,3,8,Telugu Titans,16.0,Team Super Tackles,Season 2
+16,3,5,U Mumba,16.0,Team Super Tackles,Season 2
+14,5,2,Dabang Delhi K.C.,14.0,Team Super Tackles,Season 2
+16,6,6,Patna Pirates,13.0,Team Super Tackles,Season 2
+14,7,7,Puneri Paltan,11.0,Team Super Tackles,Season 2
+16,8,1,Bengaluru Bulls,7.0,Team Super Tackles,Season 2
+16,1,5,U Mumba,81.0,Team DOD Raid Points,Season 2
+16,2,1,Bengaluru Bulls,80.0,Team DOD Raid Points,Season 2
+16,3,8,Telugu Titans,66.0,Team DOD Raid Points,Season 2
+14,4,2,Dabang Delhi K.C.,61.0,Team DOD Raid Points,Season 2
+16,5,6,Patna Pirates,60.0,Team DOD Raid Points,Season 2
+14,6,4,Bengal Warriors,59.0,Team DOD Raid Points,Season 2
+14,7,7,Puneri Paltan,56.0,Team DOD Raid Points,Season 2
+14,8,3,Jaipur Pink Panthers,47.0,Team DOD Raid Points,Season 2
+16,1,8,Telugu Titans,26.0,Team All-outs Inflicted,Season 2
+16,2,1,Bengaluru Bulls,25.0,Team All-outs Inflicted,Season 2
+16,3,5,U Mumba,20.0,Team All-outs Inflicted,Season 2
+14,4,3,Jaipur Pink Panthers,17.0,Team All-outs Inflicted,Season 2
+14,5,2,Dabang Delhi K.C.,13.0,Team All-outs Inflicted,Season 2
+16,5,6,Patna Pirates,13.0,Team All-outs Inflicted,Season 2
+14,7,7,Puneri Paltan,12.0,Team All-outs Inflicted,Season 2
+14,8,4,Bengal Warriors,10.0,Team All-outs Inflicted,Season 2
+16,1,6,Patna Pirates,21.0,Team All-outs Conceded,Season 2
+14,1,7,Puneri Paltan,21.0,Team All-outs Conceded,Season 2
+14,3,2,Dabang Delhi K.C.,20.0,Team All-outs Conceded,Season 2
+14,4,4,Bengal Warriors,17.0,Team All-outs Conceded,Season 2
+16,5,1,Bengaluru Bulls,16.0,Team All-outs Conceded,Season 2
+16,6,8,Telugu Titans,15.0,Team All-outs Conceded,Season 2
+16,7,5,U Mumba,14.0,Team All-outs Conceded,Season 2
+14,8,3,Jaipur Pink Panthers,12.0,Team All-outs Conceded,Season 2
+16,1,3,Jaipur Pink Panthers,579.0,Team Total Points,Season 1
+16,2,5,U Mumba,550.0,Team Total Points,Season 1
+16,3,6,Patna Pirates,504.0,Team Total Points,Season 1
+16,4,1,Bengaluru Bulls,498.0,Team Total Points,Season 1
+14,5,8,Telugu Titans,497.0,Team Total Points,Season 1
+14,6,2,Dabang Delhi K.C.,456.0,Team Total Points,Season 1
+14,7,4,Bengal Warriors,430.0,Team Total Points,Season 1
+14,8,7,Puneri Paltan,405.0,Team Total Points,Season 1
+14,1,7,Puneri Paltan,536.0,Team Total Points Conceded,Season 1
+14,2,4,Bengal Warriors,515.0,Team Total Points Conceded,Season 1
+16,3,5,U Mumba,499.0,Team Total Points Conceded,Season 1
+16,4,6,Patna Pirates,487.0,Team Total Points Conceded,Season 1
+16,5,1,Bengaluru Bulls,479.0,Team Total Points Conceded,Season 1
+14,6,8,Telugu Titans,474.0,Team Total Points Conceded,Season 1
+14,7,2,Dabang Delhi K.C.,471.0,Team Total Points Conceded,Season 1
+16,8,3,Jaipur Pink Panthers,458.0,Team Total Points Conceded,Season 1
+16,1,3,Jaipur Pink Panthers,32.12,Team Avg Points Scored,Season 1
+16,2,5,U Mumba,31.5,Team Avg Points Scored,Season 1
+14,3,8,Telugu Titans,31.42,Team Avg Points Scored,Season 1
+14,4,2,Dabang Delhi K.C.,29.92,Team Avg Points Scored,Season 1
+14,5,4,Bengal Warriors,28.92,Team Avg Points Scored,Season 1
+16,6,6,Patna Pirates,28.62,Team Avg Points Scored,Season 1
+16,7,1,Bengaluru Bulls,28.37,Team Avg Points Scored,Season 1
+14,8,7,Puneri Paltan,26.85,Team Avg Points Scored,Season 1
+14,1,8,Telugu Titans,272.0,Team Successful Raids,Season 1
+16,2,5,U Mumba,270.0,Team Successful Raids,Season 1
+16,2,3,Jaipur Pink Panthers,270.0,Team Successful Raids,Season 1
+16,4,6,Patna Pirates,253.0,Team Successful Raids,Season 1
+14,5,2,Dabang Delhi K.C.,246.0,Team Successful Raids,Season 1
+16,6,1,Bengaluru Bulls,225.0,Team Successful Raids,Season 1
+14,7,4,Bengal Warriors,213.0,Team Successful Raids,Season 1
+14,8,7,Puneri Paltan,204.0,Team Successful Raids,Season 1
+16,1,5,U Mumba,347.0,Team Raid Points,Season 1
+16,2,3,Jaipur Pink Panthers,344.0,Team Raid Points,Season 1
+14,3,8,Telugu Titans,336.0,Team Raid Points,Season 1
+16,4,6,Patna Pirates,316.0,Team Raid Points,Season 1
+16,5,1,Bengaluru Bulls,291.0,Team Raid Points,Season 1
+14,6,2,Dabang Delhi K.C.,285.0,Team Raid Points,Season 1
+14,7,4,Bengal Warriors,283.0,Team Raid Points,Season 1
+14,8,7,Puneri Paltan,269.0,Team Raid Points,Season 1
+14,1,8,Telugu Titans,24.0,Team Average Raid Points,Season 1
+16,2,5,U Mumba,21.69,Team Average Raid Points,Season 1
+16,3,3,Jaipur Pink Panthers,21.5,Team Average Raid Points,Season 1
+14,4,2,Dabang Delhi K.C.,20.36,Team Average Raid Points,Season 1
+14,5,4,Bengal Warriors,20.21,Team Average Raid Points,Season 1
+16,6,6,Patna Pirates,19.75,Team Average Raid Points,Season 1
+14,7,7,Puneri Paltan,19.21,Team Average Raid Points,Season 1
+16,8,1,Bengaluru Bulls,18.19,Team Average Raid Points,Season 1
+16,1,3,Jaipur Pink Panthers,158.0,Team Successful Tackles,Season 1
+16,2,1,Bengaluru Bulls,153.0,Team Successful Tackles,Season 1
+16,3,5,U Mumba,145.0,Team Successful Tackles,Season 1
+16,4,6,Patna Pirates,124.0,Team Successful Tackles,Season 1
+14,4,2,Dabang Delhi K.C.,124.0,Team Successful Tackles,Season 1
+14,6,4,Bengal Warriors,106.0,Team Successful Tackles,Season 1
+14,7,8,Telugu Titans,96.0,Team Successful Tackles,Season 1
+14,8,7,Puneri Paltan,93.0,Team Successful Tackles,Season 1
+16,1,3,Jaipur Pink Panthers,170.0,Team Tackle Points,Season 1
+16,2,1,Bengaluru Bulls,163.0,Team Tackle Points,Season 1
+16,3,5,U Mumba,157.0,Team Tackle Points,Season 1
+16,4,6,Patna Pirates,142.0,Team Tackle Points,Season 1
+14,5,2,Dabang Delhi K.C.,134.0,Team Tackle Points,Season 1
+14,6,4,Bengal Warriors,122.0,Team Tackle Points,Season 1
+14,7,7,Puneri Paltan,107.0,Team Tackle Points,Season 1
+14,8,8,Telugu Titans,104.0,Team Tackle Points,Season 1
+16,1,3,Jaipur Pink Panthers,10.63,Team Average Tackle Points,Season 1
+16,2,1,Bengaluru Bulls,10.19,Team Average Tackle Points,Season 1
+16,3,5,U Mumba,9.81,Team Average Tackle Points,Season 1
+14,4,2,Dabang Delhi K.C.,9.57,Team Average Tackle Points,Season 1
+16,5,6,Patna Pirates,8.88,Team Average Tackle Points,Season 1
+14,6,4,Bengal Warriors,8.71,Team Average Tackle Points,Season 1
+14,7,7,Puneri Paltan,7.64,Team Average Tackle Points,Season 1
+14,8,8,Telugu Titans,7.43,Team Average Tackle Points,Season 1
+16,1,6,Patna Pirates,13.0,Team Super Raid,Season 1
+16,2,5,U Mumba,12.0,Team Super Raid,Season 1
+14,3,7,Puneri Paltan,11.0,Team Super Raid,Season 1
+14,3,4,Bengal Warriors,11.0,Team Super Raid,Season 1
+16,5,3,Jaipur Pink Panthers,9.0,Team Super Raid,Season 1
+14,6,8,Telugu Titans,8.0,Team Super Raid,Season 1
+16,7,1,Bengaluru Bulls,7.0,Team Super Raid,Season 1
+14,8,2,Dabang Delhi K.C.,5.0,Team Super Raid,Season 1
+16,1,6,Patna Pirates,18.0,Team Super Tackles,Season 1
+14,2,4,Bengal Warriors,16.0,Team Super Tackles,Season 1
+14,3,7,Puneri Paltan,14.0,Team Super Tackles,Season 1
+16,4,3,Jaipur Pink Panthers,12.0,Team Super Tackles,Season 1
+16,4,5,U Mumba,12.0,Team Super Tackles,Season 1
+16,6,1,Bengaluru Bulls,10.0,Team Super Tackles,Season 1
+14,6,2,Dabang Delhi K.C.,10.0,Team Super Tackles,Season 1
+14,8,8,Telugu Titans,8.0,Team Super Tackles,Season 1
+16,1,3,Jaipur Pink Panthers,50.0,Team DOD Raid Points,Season 1
+14,2,7,Puneri Paltan,48.0,Team DOD Raid Points,Season 1
+16,3,6,Patna Pirates,42.0,Team DOD Raid Points,Season 1
+16,4,5,U Mumba,40.0,Team DOD Raid Points,Season 1
+16,4,1,Bengaluru Bulls,40.0,Team DOD Raid Points,Season 1
+14,6,2,Dabang Delhi K.C.,31.0,Team DOD Raid Points,Season 1
+14,6,8,Telugu Titans,31.0,Team DOD Raid Points,Season 1
+14,8,4,Bengal Warriors,30.0,Team DOD Raid Points,Season 1
+16,1,3,Jaipur Pink Panthers,29.0,Team All-outs Inflicted,Season 1
+14,2,8,Telugu Titans,25.0,Team All-outs Inflicted,Season 1
+16,3,5,U Mumba,21.0,Team All-outs Inflicted,Season 1
+16,4,1,Bengaluru Bulls,20.0,Team All-outs Inflicted,Season 1
+14,5,2,Dabang Delhi K.C.,18.0,Team All-outs Inflicted,Season 1
+16,5,6,Patna Pirates,18.0,Team All-outs Inflicted,Season 1
+14,7,7,Puneri Paltan,12.0,Team All-outs Inflicted,Season 1
+14,8,4,Bengal Warriors,11.0,Team All-outs Inflicted,Season 1
+14,1,7,Puneri Paltan,26.0,Team All-outs Conceded,Season 1
+14,2,4,Bengal Warriors,25.0,Team All-outs Conceded,Season 1
+14,3,2,Dabang Delhi K.C.,23.0,Team All-outs Conceded,Season 1
+16,4,5,U Mumba,19.0,Team All-outs Conceded,Season 1
+16,5,6,Patna Pirates,17.0,Team All-outs Conceded,Season 1
+16,6,3,Jaipur Pink Panthers,15.0,Team All-outs Conceded,Season 1
+16,6,1,Bengaluru Bulls,15.0,Team All-outs Conceded,Season 1
+14,8,8,Telugu Titans,14.0,Team All-outs Conceded,Season 1
