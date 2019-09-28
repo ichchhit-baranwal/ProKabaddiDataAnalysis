@@ -1,0 +1,166 @@
+player_id,High 5s,Player Avg Raid Points,Player Avg Tackle Points,Player DOD Raid Points,Player Raid Points,Player Successful Raids,Player Successful Tackles,Player Super Raids,Player Super Tackles,Player Tackle Points,Player Total Points,Super 10s,player_name,team,position_id,position_name,match_played
+12,,2.8,0.1,9.0,28.0,25.0,1.0,,,1.0,29.0,,Jang Kun Lee,6,8.0,Raider,10
+26,,4.46,,8.0,58.0,47.0,,2.0,,,58.0,1.0,Ajay Thakur,29,8.0,Raider,13
+36,,5.0,0.27,7.0,75.0,59.0,3.0,3.0,1.0,4.0,79.0,1.0,Chandran Ranjit,2,8.0,Raider,15
+41,,6.88,0.63,20.0,110.0,85.0,8.0,2.0,2.0,10.0,120.0,5.0,Deepak Niwas Hooda,3,1.0,All Rounder,16
+42,1.0,0.25,2.4,,2.0,1.0,33.0,,3.0,36.0,38.0,,Dharmaraj Cheralathan,28,10.0,"Defender, right and left corner",15
+46,,2.0,,,4.0,3.0,,,,,4.0,,Gurvinder Singh,31,8.0,Raider,2
+54,,,1.73,,,,25.0,,1.0,26.0,26.0,,Jeeva Kumar,4,5.0,"Defender, right and left cover",15
+69,2.0,0.3,2.64,,3.0,,35.0,,2.0,37.0,40.0,,Manjeet Chhillar,29,1.0,All Rounder,14
+71,1.0,,2.25,,,,33.0,,3.0,36.0,36.0,,Mohit Chhillar,29,6.0,"Defender, right corner",16
+81,,6.29,0.35,21.0,108.0,87.0,7.0,,,6.0,113.0,4.0,Rahul Chaudhari,29,8.0,Raider,17
+84,,,,,,,2.0,,,2.0,2.0,,Rajaguru Subramanian,5,7.0,"Defender, right cover",4
+94,,3.42,0.08,6.0,41.0,30.0,1.0,2.0,,1.0,42.0,,Rishank Devadiga,30,8.0,Raider,12
+105,,1.69,0.54,5.0,22.0,17.0,6.0,,1.0,7.0,29.0,,Shabeer Bappu,29,8.0,Raider,13
+106,,5.94,0.19,19.0,95.0,72.0,3.0,1.0,,3.0,98.0,2.0,Shrikant Jadhav,30,8.0,Raider,16
+111,,2.8,,10.0,28.0,19.0,1.0,2.0,,1.0,29.0,,Sukesh Hegde,4,8.0,Raider,10
+115,,4.0,0.08,3.0,44.0,35.0,1.0,1.0,,1.0,45.0,1.0,Suraj Desai,8,8.0,Raider,12
+121,,0.62,0.81,4.0,8.0,4.0,13.0,,,13.0,21.0,,Vikas Jaglan,6,1.0,All Rounder,16
+123,,,1.31,,,,21.0,,,21.0,21.0,,Vishal Mane,2,7.0,"Defender, right cover",16
+142,1.0,0.86,2.44,2.0,12.0,9.0,34.0,,5.0,39.0,51.0,,Sandeep Narwal,5,1.0,All Rounder,16
+143,,8.63,0.0,19.0,138.0,118.0,,4.0,,,138.0,6.0,Maninder Singh,4,8.0,Raider,16
+155,,4.11,,5.0,37.0,28.0,,,,,37.0,1.0,Prashanth Kumar Rai,28,8.0,Raider,9
+156,,4.17,,5.0,25.0,19.0,,,,,25.0,1.0,Pawan Kumar Kadian,7,8.0,Raider,6
+157,2.0,,2.75,,,,44.0,,,44.0,44.0,,Ravinder Pahal,2,6.0,"Defender, right corner",16
+160,,0.88,1.5,1.0,7.0,4.0,23.0,,1.0,24.0,31.0,,Ran Singh,29,1.0,All Rounder,16
+161,1.0,,2.15,,,,26.0,,3.0,28.0,28.0,,Girish Maruti Ernak,7,3.0,"Defender, left corner",13
+179,2.0,,2.29,,,,31.0,,1.0,32.0,32.0,,Vikas Kale,28,7.0,"Defender, right cover",14
+191,1.0,,1.2,,2.0,1.0,15.0,,3.0,18.0,20.0,,C. Arun,8,4.0,"Defender, left cover",15
+194,1.0,,2.56,,,,37.0,,4.0,41.0,41.0,,Joginder Singh Narwal,2,3.0,"Defender, left corner",16
+197,,11.88,,35.0,190.0,152.0,,8.0,,,190.0,10.0,Pardeep Narwal,6,8.0,Raider,16
+202,,0.0,0.83,,,,3.0,,2.0,5.0,5.0,,Ashish Kumar,1,1.0,All Rounder,6
+204,,,,,3.0,1.0,,,,,3.0,,Rakesh Narwal,4,8.0,Raider,1
+211,,2.64,0.07,10.0,37.0,32.0,1.0,,,1.0,38.0,,Deepak Narwal,3,8.0,Raider,14
+212,2.0,,2.58,,,,28.0,,3.0,31.0,31.0,,Amit Hooda,3,6.0,"Defender, right corner",12
+214,,0.33,1.11,2.0,3.0,2.0,8.0,,2.0,10.0,13.0,,Amit Kumar,8,8.0,Raider,9
+218,,0.0,0.33,,,,3.0,,1.0,4.0,4.0,,Sachin Kumar,30,1.0,All Rounder,12
+219,,5.8,0.13,10.0,87.0,64.0,2.0,3.0,,2.0,89.0,3.0,K. Prapanjan,4,8.0,Raider,16
+234,,2.5,,5.0,10.0,5.0,1.0,,,1.0,11.0,,Surender Singh,30,8.0,Raider,4
+240,2.0,,2.23,,,,25.0,,4.0,29.0,29.0,,Ravi Kumar,28,7.0,"Defender, right cover",13
+249,1.0,0.55,1.88,,6.0,3.0,24.0,,6.0,30.0,36.0,,Hadi Oshtorak,6,1.0,All Rounder,16
+251,,2.5,,4.0,30.0,22.0,1.0,1.0,,1.0,31.0,1.0,Meraj Sheykh,2,1.0,All Rounder,12
+259,2.0,0.25,3.31,,2.0,1.0,50.0,,3.0,53.0,55.0,,Fazel Atrachali,5,3.0,"Defender, left corner",16
+261,,2.92,0.31,7.0,38.0,26.0,3.0,2.0,1.0,4.0,42.0,,Rohit Baliyan,5,8.0,Raider,13
+264,,2.0,,,10.0,6.0,2.0,1.0,,2.0,12.0,,Selvamani K,28,8.0,Raider,6
+268,,1.0,0.78,2.0,6.0,2.0,6.0,,1.0,7.0,13.0,,Vineet Sharma,29,8.0,Raider,9
+274,,0.0,0.57,,,,4.0,,,4.0,4.0,,Krushna Madane,8,9.0,Defender,7
+290,5.0,,3.56,,1.0,,50.0,,7.0,57.0,58.0,,Sandeep Kumar Dhull,3,3.0,"Defender, left corner",16
+293,,1.86,,7.0,26.0,18.0,2.0,,,2.0,28.0,,Nilesh Salunke,3,8.0,Raider,14
+300,,1.0,,1.0,5.0,3.0,,,,,5.0,,Abolfazl Maghsodloumahali,31,8.0,Raider,6
+301,,0.33,1.4,,1.0,1.0,13.0,,1.0,14.0,15.0,,Hadi Tajik,7,6.0,"Defender, right corner",10
+311,,,1.33,,,,16.0,,,16.0,16.0,,Anil Kumar,2,4.0,"Defender, left cover",12
+318,,12.88,0.63,13.0,206.0,159.0,9.0,5.0,1.0,10.0,216.0,10.0,Pawan Kumar Sehrawat,1,8.0,Raider,16
+320,,4.9,0.3,,49.0,44.0,3.0,,,2.0,51.0,1.0,Nitin Tomar,7,8.0,Raider,10
+322,4.0,0.25,2.53,,2.0,1.0,40.0,,5.0,43.0,45.0,,PO Surjeet Singh,7,7.0,"Defender, right cover",17
+324,,0.5,,,2.0,1.0,,,,,2.0,,Darshan Kadian,7,8.0,Raider,4
+326,,4.63,0.25,11.0,74.0,59.0,4.0,1.0,,4.0,78.0,2.0,Rohit Kumar,1,8.0,Raider,16
+347,,,0.67,,,,6.0,,,6.0,6.0,,Sagar B Krishna,7,1.0,All Rounder,9
+357,2.0,,2.13,,,,32.0,,2.0,34.0,34.0,,Parvesh Bhainswal,31,4.0,"Defender, left cover",16
+358,5.0,0.0,3.6,,,,45.0,,9.0,54.0,54.0,,Vishal Bhardwaj,8,9.0,Defender,15
+363,,2.25,0.25,7.0,27.0,20.0,2.0,,1.0,3.0,30.0,,Sumit Singh,1,8.0,Raider,12
+366,,9.67,0.33,25.0,116.0,91.0,4.0,5.0,,4.0,120.0,7.0,Vikash Kandola,28,8.0,Raider,12
+368,4.0,0.17,2.69,1.0,1.0,1.0,37.0,,6.0,43.0,44.0,,Sunil Kumar,31,9.0,Defender,16
+376,,3.0,,10.0,36.0,27.0,,,,,36.0,,Athul MS,5,8.0,Raider,12
+388,,4.78,0.33,5.0,43.0,38.0,2.0,,1.0,3.0,46.0,1.0,Monu Goyat,30,8.0,Raider,9
+390,,,0.8,,,,4.0,,,4.0,4.0,,Jawahar Dagar,6,9.0,Defender,5
+481,,,0.89,,,,8.0,,,8.0,8.0,,Saeid Ghaffari,2,4.0,"Defender, left cover",9
+482,,1.43,1.53,3.0,20.0,17.0,23.0,,,23.0,43.0,,Farhad Rahimi Milaghardan,8,1.0,All Rounder,15
+484,1.0,3.88,1.5,7.0,62.0,48.0,22.0,3.0,2.0,24.0,86.0,1.0,Mohammad Esmaeil Nabibakhsh,4,1.0,All Rounder,16
+489,,0.2,2.0,,1.0,,27.0,,3.0,30.0,31.0,,Abozar Mohajermighani,8,9.0,Defender,15
+509,,,,,,,1.0,,,1.0,1.0,,Mohammad Taghi Paein Mahali,4,8.0,Raider,3
+519,,,0.67,,,,4.0,,2.0,6.0,6.0,,Young Chang Ko,5,4.0,"Defender, left cover",9
+522,,2.5,,4.0,10.0,7.0,,,,,10.0,,Dong Geon Lee,5,8.0,Raider,4
+567,,0.57,0.3,2.0,4.0,3.0,2.0,,1.0,3.0,7.0,,Mohsen Maghsoudloujafari,30,1.0,All Rounder,10
+571,,1.87,0.44,6.0,28.0,23.0,5.0,,2.0,7.0,35.0,,Mohammad Esmaeil Maghsoudlou Mahalli,6,8.0,Raider,16
+578,,,0.8,,,,4.0,,,4.0,4.0,,Mayur Shivtarkar,4,1.0,All Rounder,5
+579,3.0,,2.69,,,,40.0,,3.0,43.0,43.0,,Jaideep,6,3.0,"Defender, left corner",16
+613,,,0.82,,,,6.0,,3.0,9.0,9.0,,Sunil Siddhgavali,3,9.0,Defender,11
+621,5.0,,2.75,,,,39.0,,5.0,44.0,44.0,,Baldev Singh,4,6.0,"Defender, right corner",16
+637,3.0,,2.88,,,,43.0,,3.0,46.0,46.0,,Neeraj Kumar,6,7.0,"Defender, right cover",16
+665,1.0,,2.4,,,,12.0,,,12.0,12.0,,Pankaj,31,1.0,All Rounder,5
+676,,,1.75,,,,7.0,,,7.0,7.0,,Santhapanaselvam,3,1.0,All Rounder,4
+684,,2.17,1.33,2.0,13.0,11.0,5.0,,3.0,8.0,21.0,,Rakesh Gowda,8,8.0,Raider,6
+686,,5.56,0.25,11.0,89.0,73.0,4.0,,,4.0,93.0,3.0,Rohit Gulia,31,1.0,All Rounder,16
+718,,0.0,,,,,,,,,,,R. Sriram,7,8.0,Raider,1
+725,2.0,,2.63,,1.0,,37.0,,5.0,42.0,43.0,,Nitesh Kumar,30,9.0,Defender,16
+732,,,0.86,,,,6.0,,,6.0,6.0,,Kuldeep Singh,28,9.0,Defender,7
+733,2.0,,2.38,,4.0,1.0,36.0,1.0,2.0,38.0,42.0,,Surinder Singh,5,9.0,Defender,16
+735,,,2.7,,,,23.0,,4.0,27.0,27.0,,Vishal,3,1.0,All Rounder,10
+745,,1.64,0.67,1.0,23.0,20.0,10.0,1.0,,10.0,33.0,,Vijay,2,1.0,All Rounder,15
+757,,5.57,0.07,20.0,78.0,60.0,1.0,1.0,,1.0,79.0,2.0,Sachin Tanwar,31,8.0,Raider,14
+763,,5.35,1.53,17.0,92.0,77.0,25.0,2.0,1.0,26.0,114.0,1.0,Manjeet,7,8.0,Raider,17
+764,,1.2,,,6.0,6.0,1.0,,,1.0,7.0,,Vinod Kumar,31,1.0,All Rounder,6
+768,,,0.56,,,,4.0,,1.0,5.0,5.0,,Vijay Kumar,1,6.0,"Defender, right corner",9
+769,3.0,0.0,3.14,,,,37.0,,7.0,44.0,44.0,,Mahender Singh,1,4.0,"Defender, left cover",14
+772,,2.43,1.21,10.0,34.0,27.0,16.0,,1.0,17.0,51.0,,More GB,31,8.0,Raider,14
+778,,,0.0,,,,,,,,,,Narender,30,1.0,All Rounder,3
+784,,,0.86,,,,6.0,,,6.0,6.0,,Viraj Vishnu Landge,4,4.0,"Defender, left cover",7
+791,1.0,2.67,1.25,8.0,32.0,23.0,12.0,1.0,3.0,15.0,47.0,,Nitin Rawal,3,1.0,All Rounder,12
+794,2.0,,2.06,,,,30.0,,3.0,33.0,33.0,,Amit Sheoran,1,9.0,Defender,16
+795,,0.92,1.56,2.0,11.0,9.0,18.0,,7.0,25.0,36.0,,Monu,6,8.0,Raider,16
+796,3.0,,2.63,,,,40.0,,2.0,42.0,42.0,,Rinku Narwal,4,9.0,Defender,16
+2020,,0.33,1.25,,2.0,1.0,18.0,,2.0,20.0,22.0,,Amit,30,4.0,"Defender, left cover",16
+2023,,,0.64,,,,7.0,,,7.0,7.0,,Ruturaj Shivaji Koravi,31,9.0,Defender,11
+2024,,5.07,,11.0,76.0,57.0,2.0,2.0,,2.0,78.0,2.0,Arjun Deshwal,5,8.0,Raider,15
+2025,,,,,1.0,1.0,,,,,1.0,,Ajinkya Rohidas Kapre,5,1.0,All Rounder,2
+2026,,8.33,,14.0,125.0,109.0,3.0,2.0,,3.0,128.0,4.0,Siddharth Sirish Desai,8,8.0,Raider,15
+2028,,6.21,0.07,23.0,87.0,74.0,1.0,2.0,,1.0,88.0,4.0,Abhishek Singh,5,8.0,Raider,14
+2257,,2.0,,,6.0,4.0,1.0,,1.0,2.0,8.0,,Victor Onyango Obiero,29,1.0,All Rounder,3
+2286,,3.15,0.54,18.0,41.0,31.0,6.0,,1.0,7.0,48.0,,Surender Gill,30,8.0,Raider,13
+2290,,2.43,,7.0,17.0,13.0,1.0,,,1.0,18.0,,Rajnish,8,8.0,Raider,7
+2291,,1.55,1.64,8.0,17.0,12.0,17.0,,1.0,17.0,34.0,,Amit Kumar,7,8.0,Raider,11
+2296,,12.31,,27.0,197.0,165.0,2.0,2.0,,2.0,199.0,15.0,Naveen Kumar,2,8.0,Raider,16
+2298,,1.5,0.0,2.0,9.0,6.0,,1.0,,,9.0,,Armaan,8,1.0,All Rounder,6
+2306,,0.5,,,2.0,1.0,2.0,,1.0,3.0,5.0,,Lalit Chaudhary,31,8.0,Raider,4
+2307,,0.0,,,,,2.0,,,2.0,2.0,,Kamal Singh,8,8.0,Raider,2
+2316,,1.67,,,5.0,3.0,,,,,5.0,,Azad Singh,30,8.0,Raider,3
+2318,,,,,2.0,1.0,,,,,2.0,,Arun Kumar HN,28,8.0,Raider,2
+2321,,2.0,,2.0,6.0,4.0,1.0,,,1.0,7.0,,Ankush,30,8.0,Raider,3
+2322,,1.4,,,7.0,5.0,1.0,,,1.0,8.0,,Ankit Beniwal,8,8.0,Raider,5
+2325,,1.5,,3.0,6.0,3.0,,1.0,,,6.0,,Anand,29,8.0,Raider,4
+2330,4.0,0.67,3.31,,2.0,1.0,53.0,,,53.0,55.0,,Sumit,30,3.0,"Defender, left corner",16
+2353,,,0.29,,,,2.0,,,2.0,2.0,,Ajay,1,9.0,Defender,7
+2357,,4.25,0.17,10.0,51.0,39.0,2.0,1.0,,2.0,53.0,1.0,Naveen,28,8.0,Raider,12
+2376,,,,,1.0,1.0,,,,,1.0,,Emad Sedaghatnia,7,8.0,Raider,1
+2462,3.0,,3.0,,,,38.0,,1.0,39.0,39.0,,Sunil,28,6.0,"Defender, right corner",13
+2463,,,0.67,,,,3.0,,1.0,4.0,4.0,,Parveen,28,4.0,"Defender, left cover",6
+2470,,,0.38,,,,3.0,,,3.0,3.0,,Adarsh T,4,3.0,"Defender, left corner",8
+2471,,0.0,1.0,,,,4.0,,1.0,5.0,5.0,,Ankit,1,9.0,Defender,5
+2474,,,,,2.0,1.0,,,,,2.0,,Aman Kadian,2,8.0,Raider,2
+2475,,1.58,,8.0,19.0,16.0,,,,,19.0,,Ajinkya Ashok Pawar,3,8.0,Raider,13
+2478,,0.8,,1.0,4.0,3.0,,,,,4.0,,Purna Singh,6,8.0,Raider,5
+2479,,0.17,1.31,,1.0,1.0,15.0,,2.0,17.0,18.0,,Shubham Shinde,7,6.0,"Defender, right corner",13
+2481,,,0.4,,,,2.0,,,1.0,1.0,,Ponparthiban Subramanian,29,7.0,"Defender, right cover",5
+2485,,2.55,,4.0,28.0,21.0,3.0,3.0,1.0,4.0,32.0,,Sonu Jaglan,31,8.0,Raider,11
+2486,1.0,,1.0,,,,13.0,,1.0,14.0,14.0,,Harendra Kumar,5,4.0,"Defender, left cover",14
+2488,,4.2,0.27,11.0,63.0,45.0,4.0,4.0,,4.0,67.0,1.0,Vinay,28,8.0,Raider,15
+2489,,,,,,,1.0,,,1.0,1.0,,Satywan,2,4.0,"Defender, left cover",1
+2492,2.0,,1.86,,,,21.0,,5.0,26.0,26.0,,Jadhav Balasaheb Shahaji,7,7.0,"Defender, right cover",15
+2494,,1.22,,3.0,11.0,7.0,1.0,1.0,,1.0,12.0,,Sachin Narwal,3,1.0,All Rounder,10
+2496,,,0.92,,,,9.0,,2.0,11.0,11.0,,Pavan T. R.,3,7.0,"Defender, right cover",12
+2498,,2.83,,7.0,17.0,11.0,,2.0,,,17.0,,Sushil Gulia,3,8.0,Raider,6
+2501,,,,,,,1.0,,,1.0,1.0,,Aman,1,3.0,"Defender, left corner",1
+2502,1.0,0.5,1.1,3.0,5.0,4.0,9.0,,2.0,11.0,16.0,,Mohit Sehrawat,1,7.0,"Defender, right cover",10
+2503,,1.13,,1.0,9.0,7.0,2.0,,,2.0,11.0,,Banty,1,8.0,Raider,9
+2504,,0.71,,1.0,5.0,3.0,,,,,5.0,,Ashish,6,8.0,Raider,7
+2506,,,0.5,,,,3.0,,,2.0,2.0,,M. Abishek,29,7.0,"Defender, right cover",4
+2507,,1.67,,,5.0,3.0,,1.0,,,5.0,,Amit Kumar,6,1.0,All Rounder,3
+2508,,6.08,0.0,6.0,85.0,70.0,,1.0,,,74.0,2.0,V. Ajith Kumar,29,8.0,Raider,14
+2512,,,1.0,,,,13.0,,1.0,14.0,14.0,,Ajeet,29,7.0,"Defender, right cover",14
+2514,,,1.0,,1.0,1.0,4.0,,1.0,5.0,6.0,,Chand Singh,28,3.0,"Defender, left corner",5
+2515,,,,,1.0,1.0,,,,,1.0,,Vikas Chhillar,28,8.0,Raider,1
+2644,,,0.75,,,,2.0,,1.0,3.0,3.0,,Ravinder,6,1.0,All Rounder,4
+2657,,,1.75,,,,27.0,,1.0,28.0,28.0,,Ashu Singh,30,7.0,"Defender, right cover",16
+2659,,,1.0,,,,8.0,,1.0,9.0,9.0,,Sagar,29,6.0,"Defender, right corner",9
+2660,,1.14,,1.0,8.0,5.0,,,,,8.0,,Sushant Sail,7,8.0,Raider,7
+2661,,5.71,0.07,19.0,81.0,60.0,1.0,3.0,,1.0,80.0,1.0,Pankaj Mohite,7,8.0,Raider,14
+2662,,,1.4,,,,7.0,,,7.0,7.0,,Sanket Sawant,7,4.0,"Defender, left cover",5
+2665,,,1.33,,,,3.0,,1.0,4.0,4.0,,Elavarasan A,3,4.0,"Defender, left cover",3
+2666,,1.33,,,4.0,4.0,,,,,4.0,,Harmanjit Singh,31,8.0,Raider,3
+2667,,,1.08,,,,11.0,,2.0,13.0,13.0,,Ankit,31,6.0,"Defender, right corner",12
+2669,,,,2.0,2.0,1.0,,,,,2.0,,Balram,2,1.0,All Rounder,1
+2670,4.0,,2.6,,1.0,1.0,34.0,,5.0,39.0,40.0,,Saurabh Nandal,1,3.0,"Defender, left corner",15
+2671,,,0.33,,,,1.0,,,1.0,1.0,,Naveen Narwal,4,7.0,"Defender, right cover",3
+2672,,,1.07,,,,14.0,,1.0,15.0,15.0,,Sumit Malik,31,3.0,"Defender, left corner",14
+2682,,2.2,,4.0,11.0,7.0,1.0,,1.0,2.0,13.0,,Amit Kumar,7,1.0,All Rounder,5
+2683,,0.67,,,2.0,2.0,,,,,2.0,,Palle Mallikarjun,8,8.0,Raider,3
