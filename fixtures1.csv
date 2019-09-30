@@ -1,0 +1,143 @@
+Matches,Team A,Team B,Winner
+League,Hyderabad,Mumbai,Mumbai
+League,Bengaluru,Patna,Bengaluru
+League,Bengaluru,Gujarat,Gujarat
+League,Hyderabad,Tamil Nadu,Hyderabad
+League,Mumbai,Jaipur,Jaipur
+League,Pune,Haryana,Haryana
+League,UP,Bengal,Bengal
+League,Hyderabad,Delhi,Delhi
+League,Delhi,Tamil Nadu,Delhi
+League,UP,Gujarat,Gujarat
+League,Hyderabad,Patna,Patna
+League,Mumbai,Pune,Mumbai
+League,Jaipur,Bengal,Jaipur
+League,Delhi,Haryana,Delhi
+League,Mumbai,Bengaluru,Bengaluru
+League,Tamil Nadu,Patna,Patna
+League,Bengal,Pune,Bengal
+League,Haryana,Jaipur,Jaipur
+League,Mumbai,UP,UP
+League,Gujarat,Delhi,Gujarat
+League,Hyderabad,UP,tie
+League,Mumbai,Gujarat,Mumbai
+League,Patna,Jaipur,Jaipur
+League,Bengal,Bengaluru,Bengaluru
+League,Haryana,Tamil Nadu,Tamil Nadu
+League,Patna,Pune,Pune
+League,Delhi,Jaipur,Delhi
+League,Gujarat,Pune,Pune
+League,UP,Tamil Nadu,tie
+League,Patna,Haryana,Haryana
+League,Hyderabad,Bengaluru,Bengaluru
+League,Bengal,Mumbai,Bengal
+League,Patna,UP,Patna
+League,Gujarat,Tamil Nadu,Tamil Nadu
+League,Pune,Delhi,Delhi
+League,Bengaluru,Haryana,Haryana
+League,Gujarat,Hyderabad,Hyderabad
+League,Bengal,Hyderabad,tie
+League,UP,Bengaluru,UP
+League,UP,Haryana,Haryana
+League,Gujarat,Bengal,Bengal
+League,Jaipur,Pune,Pune
+League,Mumbai,Patna,Mumbai
+League,Gujarat,Jaipur,Jaipur
+League,Tamil Nadu,Bengaluru,Bengaluru
+League,Bengal,Delhi,tie
+League,Haryana,Hyderabad,Hyderabad
+League,Tamil Nadu,Pune,tie
+League,Mumbai,Haryana,Haryana
+League,UP,Jaipur,UP
+League,Pune,Bengaluru,Pune
+League,Tamil Nadu,Jaipur,Jaipur
+League,Bengal,Patna,Bengal
+League,Gujarat,Patna,Gujarat
+League,Tamil Nadu,Mumbai,Mumbai
+League,Delhi,Bengaluru,Bengaluru
+League,Jaipur,Hyderabad,Hyderabad
+League,Jaipur,Bengaluru,Bengaluru
+League,Delhi,UP,Delhi
+League,Bengal,Haryana,Haryana
+League,UP,Pune,Pune
+League,Gujarat,Haryana,Haryana
+League,Delhi,Mumbai,Delhi
+League,Bengal,Tamil Nadu,Bengal
+League,Hyderabad,Pune,Pune
+League,Delhi,Patna,Delhi
+League,Bengaluru,Gujarat,Gujarat
+League,Mumbai,Jaipur,Mumbai
+League,UP,Bengal,UP
+League,Bengaluru,Tamil Nadu,Bengaluru
+League,Pune,Haryana,Haryana
+League,Hyderabad,Tamil Nadu,Hyderabad
+League,Jaipur,Delhi,Delhi
+League,Bengaluru,Patna,Bengaluru
+League,Pune,Mumbai,tie
+League,Patna,UP,UP
+League,Bengaluru,Tamil Nadu,Bengaluru
+League,Bengal,Gujarat,tie
+League,Delhi,Haryana,Haryana
+League,Delhi,Tamil Nadu,Delhi
+League,Bengal,Pune,Bengal
+League,UP,Gujarat,UP
+League,Tamil Nadu,Patna,Patna
+League,Mumbai,Hyderabad,Mumbai
+League,Haryana,Jaipur,tie
+League,Bengal,Mumbai,Bengal
+League,Jaipur,Patna,Patna
+League,Bengal,Bengaluru,Bengal
+League,Pune,Gujarat,Pune
+League,Tamil Nadu,Haryana,Haryana
+League,Delhi,Gujarat,Delhi
+League,Pune,Patna,Patna
+League,Jaipur,UP,UP
+League,Hyderabad,Delhi,Delhi
+League,Mumbai,UP,Mumbai
+League,Pune,Tamil Nadu,tie
+League,Bengal,Haryana,Bengal
+League,Hyderabad,Patna,
+League,Pune,Bengaluru,
+League,Jaipur,Gujarat,
+League,UP,Tamil Nadu,
+League,Mumbai,Gujarat,
+League,Jaipur,Bengal,
+League,Patna,Haryana,
+League,Delhi,Bengaluru,
+League,Hyderabad,Bengal,
+League,Jaipur,Pune,
+League,Patna,Delhi,
+League,Mumbai,Bengaluru,
+League,Jaipur,Hyderabad,
+League,Haryana,UP,
+League,Gujarat,Tamil Nadu,
+League,Pune,Delhi,
+League,Haryana,Gujarat,
+League,Bengal,Delhi,
+League,Tamil Nadu,Mumbai,
+League,Mumbai,Patna,
+League,Haryana,Bengaluru,
+League,Hyderabad,Pune,
+League,Jaipur,Bengaluru,
+League,Haryana,Hyderabad,
+League,UP,Delhi,
+League,Gujarat,Patna,
+League,Bengal,Patna,
+League,UP,Pune,
+League,Hyderabad,Gujarat,
+League,Tamil Nadu,Jaipur,
+League,Bengal,Tamil Nadu,
+League,UP,Hyderabad,
+League,Mumbai,Haryana,
+League,Delhi,Mumbai,
+League,UP,Bengaluru,
+,,,
+,,,
+Eliminator 1,Haryana,UP,
+Eliminator 2,Mumbai,Bengaluru,
+,,,
+,,,
+Semi 1 ,Delhi,UP,
+Semi 2,Bengal,Mumbai,
+,,,
+Final,UP,Mumbai,

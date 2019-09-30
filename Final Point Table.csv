@@ -1,0 +1,23 @@
+rank,team,mat,pt
+1,Delhi,22,87
+2,Bengal,22,83
+3,Haryana,22,75
+4,Mumbai,22,69
+5,Bengaluru,22,63
+6,UP,22,63
+7,Jaipur,22,62
+8,Gujarat,22,55
+9,Pune,22,52
+10,Patna,22,45
+11,Hyderabad,22,44
+12,Tamil Nadu,22,30
+,,,
+Eliminator 1,Haryana,UP,
+Eliminator 2,Mumbai,Banglore,
+,,,
+Semi 1,Delhi,UP,
+Semi 2,Bengal,Mumbai,
+,,,
+Final,UP,Mumbai,
+,,,
+Final Winner,,Mumbai,
